@@ -43,8 +43,8 @@
     "target_definition_translation": "A state of rest of a body; a harmonious proportion between different elements.",
     "example": "È importante trovare un buon equilibrio tra lavoro e vita privata.",
     "example_translation": "It is important to find a good work-life balance."
-  }
-{
+  },
+  {
     "language": "it",
     "word": "Mare",
     "english_definition": "Sea",
@@ -196,122 +196,5 @@
     "target_definition_translation": "Natural satellite of Earth.",
     "example": "La luna piena illuminava la notte.",
     "example_translation": "The full moon illuminated the night."
-  },
-  {
-    "language": "it",
-    "word": "Acqua",
-    "english_definition": "Water",
-    "target_definition": "Liquido essenziale per la vita.",
-    "target_definition_translation": "Liquid essential for life.",
-    "example": "Bevo molta acqua ogni giorno.",
-    "example_translation": "I drink a lot of water every day."
-  },
-  {
-    "language": "it",
-    "word": "Albero",
-    "english_definition": "Tree",
-    "target_definition": "Pianta alta con tronco e rami.",
-    "target_definition_translation": "Tall plant with trunk and branches.",
-    "example": "L'albero dava una piacevole ombra.",
-    "example_translation": "The tree provided pleasant shade."
-  },
-  {
-    "language": "it",
-    "word": "Notte",
-    "english_definition": "Night",
-    "target_definition": "Periodo di oscurità tra tramonto e alba.",
-    "target_definition_translation": "Period of darkness between sunset and sunrise.",
-    "example": "La notte era silenziosa e fresca.",
-    "example_translation": "The night was quiet and cool."
-  },
-  {
-    "language": "it",
-    "word": "Giorno",
-    "english_definition": "Day",
-    "target_definition": "Periodo di luce tra alba e tramonto.",
-    "target_definition_translation": "Period of light between sunrise and sunset.",
-    "example": "Oggi è un giorno speciale.",
-    "example_translation": "Today is a special day."
-  },
-  {
-    "language": "it",
-    "word": "Cane",
-    "english_definition": "Dog",
-    "target_definition": "Animale domestico fedele all'uomo.",
-    "target_definition_translation": "Domestic animal loyal to humans.",
-    "example": "Il cane correva felice nel giardino.",
-    "example_translation": "The dog ran happily in the garden."
-  },
-  {
-    "language": "it",
-    "word": "Gatto",
-    "english_definition": "Cat",
-    "target_definition": "Piccolo animale domestico molto agile.",
-    "target_definition_translation": "Small domestic animal very agile.",
-    "example": "Il gatto dormiva sul divano.",
-    "example_translation": "The cat was sleeping on the sofa."
-  },
-  {
-    "language": "it",
-    "word": "Uccello",
-    "english_definition": "Bird",
-    "target_definition": "Animale dotato di piume e ali.",
-    "target_definition_translation": "Animal with feathers and wings.",
-    "example": "Un uccello cantava sull'albero.",
-    "example_translation": "A bird was singing on the tree."
-  },
-  {
-    "language": "it",
-    "word": "Neve",
-    "english_definition": "Snow",
-    "target_definition": "Precipitazione atmosferica di cristalli di ghiaccio.",
-    "target_definition_translation": "Atmospheric precipitation of ice crystals.",
-    "example": "La neve copriva le strade.",
-    "example_translation": "Snow covered the streets."
-  },
-  {
-    "language": "it",
-    "word": "Estate",
-    "english_definition": "Summer",
-    "target_definition": "Stagione più calda dell'anno.",
-    "target_definition_translation": "Warmest season of the year.",
-    "example": "In estate andiamo sempre al mare.",
-    "example_translation": "In summer we always go to the sea."
-  },
-  {
-    "language": "it",
-    "word": "Inverno",
-    "english_definition": "Winter",
-    "target_definition": "Stagione più fredda dell'anno.",
-    "target_definition_translation": "Coldest season of the year.",
-    "example": "L'inverno quest'anno è molto rigido.",
-    "example_translation": "Winter is very harsh this year."
-  },
-  {
-    "language": "it",
-    "word": "Primavera",
-    "english_definition": "Spring",
-    "target_definition": "Stagione della fioritura delle piante.",
-    "target_definition_translation": "Season when plants bloom.",
-    "example": "La primavera porta colori vivaci.",
-    "example_translation": "Spring brings vivid colors."
-  },
-  {
-    "language": "it",
-    "word": "Autunno",
-    "english_definition": "Autumn",
-    "target_definition": "Stagione in cui cadono le foglie.",
-    "target_definition_translation": "Season when leaves fall.",
-    "example": "In autunno gli alberi diventano dorati.",
-    "example_translation": "In autumn the trees become golden."
-  },
-  {
-    "language": "it",
-    "word": "Sorriso",
-    "english_definition": "Smile",
-    "target_definition": "Espressione del viso che mostra gioia o gentilezza.",
-    "target_definition_translation": "Facial expression showing joy or kindness.",
-    "example": "Il suo sorriso era contagioso.",
-    "example_translation": "Her smile was contagious."
   }
 ]
