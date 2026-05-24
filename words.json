@@ -44,4 +44,274 @@
     "example": "È importante trovare un buon equilibrio tra lavoro e vita privata.",
     "example_translation": "It is important to find a good work-life balance."
   }
+{
+    "language": "it",
+    "word": "Mare",
+    "english_definition": "Sea",
+    "target_definition": "Grande distesa di acqua salata.",
+    "target_definition_translation": "Large expanse of salt water.",
+    "example": "Il mare oggi è molto tranquillo.",
+    "example_translation": "The sea is very calm today."
+  },
+  {
+    "language": "it",
+    "word": "Montagna",
+    "english_definition": "Mountain",
+    "target_definition": "Rilievo naturale molto elevato del terreno.",
+    "target_definition_translation": "Very high natural elevation of land.",
+    "example": "La montagna era coperta di neve.",
+    "example_translation": "The mountain was covered with snow."
+  },
+  {
+    "language": "it",
+    "word": "Fiore",
+    "english_definition": "Flower",
+    "target_definition": "Parte colorata e profumata di una pianta.",
+    "target_definition_translation": "Colored and fragrant part of a plant.",
+    "example": "Quel fiore profuma meravigliosamente.",
+    "example_translation": "That flower smells wonderful."
+  },
+  {
+    "language": "it",
+    "word": "Strada",
+    "english_definition": "Road",
+    "target_definition": "Via destinata al passaggio di persone e veicoli.",
+    "target_definition_translation": "Way intended for the passage of people and vehicles.",
+    "example": "La strada era piena di traffico.",
+    "example_translation": "The road was full of traffic."
+  },
+  {
+    "language": "it",
+    "word": "Tempo",
+    "english_definition": "Time",
+    "target_definition": "Successione continua di momenti.",
+    "target_definition_translation": "Continuous succession of moments.",
+    "example": "Il tempo passa molto velocemente.",
+    "example_translation": "Time passes very quickly."
+  },
+  {
+    "language": "it",
+    "word": "Pioggia",
+    "english_definition": "Rain",
+    "target_definition": "Precipitazione atmosferica in gocce d'acqua.",
+    "target_definition_translation": "Atmospheric precipitation in water drops.",
+    "example": "La pioggia cadeva tutta la notte.",
+    "example_translation": "The rain fell all night."
+  },
+  {
+    "language": "it",
+    "word": "Fuoco",
+    "english_definition": "Fire",
+    "target_definition": "Fenomeno di combustione che produce calore e luce.",
+    "target_definition_translation": "Combustion phenomenon producing heat and light.",
+    "example": "Il fuoco scaldava tutta la stanza.",
+    "example_translation": "The fire warmed the whole room."
+  },
+  {
+    "language": "it",
+    "word": "Libro",
+    "english_definition": "Book",
+    "target_definition": "Insieme di pagine scritte o stampate.",
+    "target_definition_translation": "Set of written or printed pages.",
+    "example": "Sto leggendo un libro interessante.",
+    "example_translation": "I am reading an interesting book."
+  },
+  {
+    "language": "it",
+    "word": "Fiume",
+    "english_definition": "River",
+    "target_definition": "Corso naturale d'acqua che scorre verso il mare.",
+    "target_definition_translation": "Natural watercourse flowing toward the sea.",
+    "example": "Il fiume attraversa la città.",
+    "example_translation": "The river crosses the city."
+  },
+  {
+    "language": "it",
+    "word": "Casa",
+    "english_definition": "House",
+    "target_definition": "Edificio destinato ad abitazione.",
+    "target_definition_translation": "Building intended for habitation.",
+    "example": "La loro casa è molto accogliente.",
+    "example_translation": "Their house is very cozy."
+  },
+  {
+    "language": "it",
+    "word": "Amore",
+    "english_definition": "Love",
+    "target_definition": "Sentimento profondo di affetto verso qualcuno.",
+    "target_definition_translation": "Deep feeling of affection toward someone.",
+    "example": "L'amore rende la vita più bella.",
+    "example_translation": "Love makes life more beautiful."
+  },
+  {
+    "language": "it",
+    "word": "Amico",
+    "english_definition": "Friend",
+    "target_definition": "Persona legata da affetto e fiducia.",
+    "target_definition_translation": "Person connected by affection and trust.",
+    "example": "Marco è il mio migliore amico.",
+    "example_translation": "Marco is my best friend."
+  },
+  {
+    "language": "it",
+    "word": "Famiglia",
+    "english_definition": "Family",
+    "target_definition": "Gruppo di persone unite da legami di parentela.",
+    "target_definition_translation": "Group of people united by family ties.",
+    "example": "La mia famiglia vive vicino al lago.",
+    "example_translation": "My family lives near the lake."
+  },
+  {
+    "language": "it",
+    "word": "Scuola",
+    "english_definition": "School",
+    "target_definition": "Luogo dove si insegna e si apprende.",
+    "target_definition_translation": "Place where teaching and learning happen.",
+    "example": "La scuola inizia alle otto.",
+    "example_translation": "School starts at eight."
+  },
+  {
+    "language": "it",
+    "word": "Bambino",
+    "english_definition": "Child",
+    "target_definition": "Persona nella fase iniziale della vita.",
+    "target_definition_translation": "Person in the early stage of life.",
+    "example": "Il bambino giocava nel parco.",
+    "example_translation": "The child was playing in the park."
+  },
+  {
+    "language": "it",
+    "word": "Sole",
+    "english_definition": "Sun",
+    "target_definition": "Stella al centro del sistema solare.",
+    "target_definition_translation": "Star at the center of the solar system.",
+    "example": "Il sole splendeva nel cielo azzurro.",
+    "example_translation": "The sun was shining in the blue sky."
+  },
+  {
+    "language": "it",
+    "word": "Luna",
+    "english_definition": "Moon",
+    "target_definition": "Satellite naturale della Terra.",
+    "target_definition_translation": "Natural satellite of Earth.",
+    "example": "La luna piena illuminava la notte.",
+    "example_translation": "The full moon illuminated the night."
+  },
+  {
+    "language": "it",
+    "word": "Acqua",
+    "english_definition": "Water",
+    "target_definition": "Liquido essenziale per la vita.",
+    "target_definition_translation": "Liquid essential for life.",
+    "example": "Bevo molta acqua ogni giorno.",
+    "example_translation": "I drink a lot of water every day."
+  },
+  {
+    "language": "it",
+    "word": "Albero",
+    "english_definition": "Tree",
+    "target_definition": "Pianta alta con tronco e rami.",
+    "target_definition_translation": "Tall plant with trunk and branches.",
+    "example": "L'albero dava una piacevole ombra.",
+    "example_translation": "The tree provided pleasant shade."
+  },
+  {
+    "language": "it",
+    "word": "Notte",
+    "english_definition": "Night",
+    "target_definition": "Periodo di oscurità tra tramonto e alba.",
+    "target_definition_translation": "Period of darkness between sunset and sunrise.",
+    "example": "La notte era silenziosa e fresca.",
+    "example_translation": "The night was quiet and cool."
+  },
+  {
+    "language": "it",
+    "word": "Giorno",
+    "english_definition": "Day",
+    "target_definition": "Periodo di luce tra alba e tramonto.",
+    "target_definition_translation": "Period of light between sunrise and sunset.",
+    "example": "Oggi è un giorno speciale.",
+    "example_translation": "Today is a special day."
+  },
+  {
+    "language": "it",
+    "word": "Cane",
+    "english_definition": "Dog",
+    "target_definition": "Animale domestico fedele all'uomo.",
+    "target_definition_translation": "Domestic animal loyal to humans.",
+    "example": "Il cane correva felice nel giardino.",
+    "example_translation": "The dog ran happily in the garden."
+  },
+  {
+    "language": "it",
+    "word": "Gatto",
+    "english_definition": "Cat",
+    "target_definition": "Piccolo animale domestico molto agile.",
+    "target_definition_translation": "Small domestic animal very agile.",
+    "example": "Il gatto dormiva sul divano.",
+    "example_translation": "The cat was sleeping on the sofa."
+  },
+  {
+    "language": "it",
+    "word": "Uccello",
+    "english_definition": "Bird",
+    "target_definition": "Animale dotato di piume e ali.",
+    "target_definition_translation": "Animal with feathers and wings.",
+    "example": "Un uccello cantava sull'albero.",
+    "example_translation": "A bird was singing on the tree."
+  },
+  {
+    "language": "it",
+    "word": "Neve",
+    "english_definition": "Snow",
+    "target_definition": "Precipitazione atmosferica di cristalli di ghiaccio.",
+    "target_definition_translation": "Atmospheric precipitation of ice crystals.",
+    "example": "La neve copriva le strade.",
+    "example_translation": "Snow covered the streets."
+  },
+  {
+    "language": "it",
+    "word": "Estate",
+    "english_definition": "Summer",
+    "target_definition": "Stagione più calda dell'anno.",
+    "target_definition_translation": "Warmest season of the year.",
+    "example": "In estate andiamo sempre al mare.",
+    "example_translation": "In summer we always go to the sea."
+  },
+  {
+    "language": "it",
+    "word": "Inverno",
+    "english_definition": "Winter",
+    "target_definition": "Stagione più fredda dell'anno.",
+    "target_definition_translation": "Coldest season of the year.",
+    "example": "L'inverno quest'anno è molto rigido.",
+    "example_translation": "Winter is very harsh this year."
+  },
+  {
+    "language": "it",
+    "word": "Primavera",
+    "english_definition": "Spring",
+    "target_definition": "Stagione della fioritura delle piante.",
+    "target_definition_translation": "Season when plants bloom.",
+    "example": "La primavera porta colori vivaci.",
+    "example_translation": "Spring brings vivid colors."
+  },
+  {
+    "language": "it",
+    "word": "Autunno",
+    "english_definition": "Autumn",
+    "target_definition": "Stagione in cui cadono le foglie.",
+    "target_definition_translation": "Season when leaves fall.",
+    "example": "In autunno gli alberi diventano dorati.",
+    "example_translation": "In autumn the trees become golden."
+  },
+  {
+    "language": "it",
+    "word": "Sorriso",
+    "english_definition": "Smile",
+    "target_definition": "Espressione del viso che mostra gioia o gentilezza.",
+    "target_definition_translation": "Facial expression showing joy or kindness.",
+    "example": "Il suo sorriso era contagioso.",
+    "example_translation": "Her smile was contagious."
+  }
 ]
