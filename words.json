@@ -1,0 +1,47 @@
+[
+  {
+    "language": "it",
+    "word": "Speranza",
+    "english_definition": "Hope",
+    "target_definition": "Sentimento di fiduciosa attesa di un bene, di un evento favorevole.",
+    "target_definition_translation": "A feeling of confident expectation of a good, of a favorable event.",
+    "example": "Finché c'è vita, c'è speranza.",
+    "example_translation": "While there's life, there's hope."
+  },
+  {
+    "language": "it",
+    "word": "Coraggio",
+    "english_definition": "Courage",
+    "target_definition": "Forza d'animo nell'affrontare pericoli o difficoltà.",
+    "target_definition_translation": "Strength of mind in facing dangers or difficulties.",
+    "example": "Ci vuole coraggio per cambiare vita.",
+    "example_translation": "It takes courage to change your life."
+  },
+  {
+    "language": "it",
+    "word": "Meraviglia",
+    "english_definition": "Wonder",
+    "target_definition": "Sentimento di vivo stupore suscitato da una cosa nuova o straordinaria.",
+    "target_definition_translation": "A feeling of lively astonishment aroused by a new or extraordinary thing.",
+    "example": "Guardava il tramonto con vera meraviglia.",
+    "example_translation": "He watched the sunset with true wonder."
+  },
+  {
+    "language": "it",
+    "word": "Fiducia",
+    "english_definition": "Trust",
+    "target_definition": "Atteggiamento verso gli altri o verso sé stessi, fondato sulla convinzione di poter fare affidamento.",
+    "target_definition_translation": "An attitude towards others or oneself, based on the conviction of being able to rely on them.",
+    "example": "Ho piena fiducia nelle tue capacità.",
+    "example_translation": "I have full trust in your abilities."
+  },
+  {
+    "language": "it",
+    "word": "Equilibrio",
+    "english_definition": "Balance",
+    "target_definition": "Stato di quiete di un corpo; proporzione armoniosa tra elementi diversi.",
+    "target_definition_translation": "A state of rest of a body; a harmonious proportion between different elements.",
+    "example": "È importante trovare un buon equilibrio tra lavoro e vita privata.",
+    "example_translation": "It is important to find a good work-life balance."
+  }
+]
