@@ -1008,8 +1008,9 @@
     "example": "Prendi questo medicinale.",
     "example_translation": "Take this medicine.",
     "repetitionLevel": 0
-  }
-{
+  },
+  {
+
     "language": "it",
     "word": "Mangiare",
     "english_definition": "Eat",
@@ -2008,8 +2009,9 @@
     "example": "Metti il cappello per il sole.",
     "example_translation": "Put on the hat for the sun.",
     "repetitionLevel": 0
-  }
-{
+  },
+  {
+
     "language": "it",
     "word": "Uccello",
     "english_definition": "Bird",
@@ -3008,5 +3010,5 @@
     "example": "Ho perso la chiave di casa.",
     "example_translation": "I lost the house key.",
     "repetitionLevel": 0
-  },
+  }
 ]
