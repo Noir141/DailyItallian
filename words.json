@@ -3010,5 +3010,985 @@
     "example": "Ho perso la chiave di casa.",
     "example_translation": "I lost the house key.",
     "repetitionLevel": 0
+  },
+{
+    "language": "it",
+    "word": "Arte",
+    "english_definition": "Art",
+    "target_definition": "Espressione estetica dell'interiorità umana.",
+    "target_definition_translation": "Aesthetic expression of human interiority.",
+    "example": "L'arte moderna è affascinante.",
+    "example_translation": "Modern art is fascinating.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Scienza",
+    "english_definition": "Science",
+    "target_definition": "Sistema di conoscenze basate sull'osservazione.",
+    "target_definition_translation": "System of knowledge based on observation.",
+    "example": "La scienza fa grandi progressi.",
+    "example_translation": "Science makes great progress.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Matematica",
+    "english_definition": "Math",
+    "target_definition": "Scienza dei numeri e delle misure.",
+    "target_definition_translation": "Science of numbers and measurements.",
+    "example": "La matematica è molto logica.",
+    "example_translation": "Math is very logical.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Natura",
+    "english_definition": "Nature",
+    "target_definition": "L'insieme degli esseri viventi e del mondo fisico.",
+    "target_definition_translation": "The set of living beings and the physical world.",
+    "example": "Amo passeggiare nella natura.",
+    "example_translation": "I love walking in nature.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Spazio",
+    "english_definition": "Space",
+    "target_definition": "L'ambiente infinito in cui si trovano le stelle.",
+    "target_definition_translation": "The infinite environment where stars are located.",
+    "example": "Lo spazio è un grande mistero.",
+    "example_translation": "Space is a great mystery.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Terra",
+    "english_definition": "Earth",
+    "target_definition": "Il pianeta su cui viviamo.",
+    "target_definition_translation": "The planet on which we live.",
+    "example": "La Terra gira intorno al sole.",
+    "example_translation": "The Earth revolves around the sun.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Isola",
+    "english_definition": "Island",
+    "target_definition": "Terra circondata dall'acqua.",
+    "target_definition_translation": "Land surrounded by water.",
+    "example": "Vorrei vivere su un'isola.",
+    "example_translation": "I would like to live on an island.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lago",
+    "english_definition": "Lake",
+    "target_definition": "Grande massa d'acqua dolce.",
+    "target_definition_translation": "Large mass of fresh water.",
+    "example": "L'acqua del lago è fredda.",
+    "example_translation": "The water of the lake is cold.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Bosco",
+    "english_definition": "Woods",
+    "target_definition": "Area coperta da molti alberi.",
+    "target_definition_translation": "Area covered by many trees.",
+    "example": "Ci siamo persi nel bosco.",
+    "example_translation": "We got lost in the woods.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Foresta",
+    "english_definition": "Forest",
+    "target_definition": "Vasta estensione di alberi selvatici.",
+    "target_definition_translation": "Vast extension of wild trees.",
+    "example": "La foresta amazzonica è enorme.",
+    "example_translation": "The Amazon forest is huge.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Spiaggia",
+    "english_definition": "Beach",
+    "target_definition": "Riva del mare coperta di sabbia.",
+    "target_definition_translation": "Seashore covered with sand.",
+    "example": "Andiamo a rilassarci in spiaggia.",
+    "example_translation": "Let's go relax on the beach.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Onda",
+    "english_definition": "Wave",
+    "target_definition": "Movimento della superficie del mare.",
+    "target_definition_translation": "Movement of the sea surface.",
+    "example": "Quell'onda è molto alta.",
+    "example_translation": "That wave is very high.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Nave",
+    "english_definition": "Ship",
+    "target_definition": "Grande imbarcazione per viaggiare in mare.",
+    "target_definition_translation": "Large boat for traveling by sea.",
+    "example": "La nave parte domani.",
+    "example_translation": "The ship leaves tomorrow.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Barca",
+    "english_definition": "Boat",
+    "target_definition": "Piccola imbarcazione.",
+    "target_definition_translation": "Small boat.",
+    "example": "Abbiamo noleggiato una barca.",
+    "example_translation": "We rented a boat.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Motore",
+    "english_definition": "Engine",
+    "target_definition": "Macchina che produce movimento.",
+    "target_definition_translation": "Machine that produces movement.",
+    "example": "Il motore fa un rumore strano.",
+    "example_translation": "The engine makes a strange noise.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ruota",
+    "english_definition": "Wheel",
+    "target_definition": "Oggetto circolare che gira su un asse.",
+    "target_definition_translation": "Circular object that turns on an axis.",
+    "example": "Ho bucato una ruota.",
+    "example_translation": "I got a flat wheel.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Bici",
+    "english_definition": "Bike",
+    "target_definition": "Veicolo a due ruote mosso dai pedali.",
+    "target_definition_translation": "Two-wheeled vehicle moved by pedals.",
+    "example": "Vado al lavoro in bici.",
+    "example_translation": "I go to work by bike.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Piazza",
+    "english_definition": "Square",
+    "target_definition": "Spazio aperto all'interno di una città.",
+    "target_definition_translation": "Open space inside a city.",
+    "example": "Ci incontriamo in piazza.",
+    "example_translation": "We meet in the square.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ponte",
+    "english_definition": "Bridge",
+    "target_definition": "Costruzione per attraversare un fiume.",
+    "target_definition_translation": "Construction to cross a river.",
+    "example": "Il ponte è fatto di pietra.",
+    "example_translation": "The bridge is made of stone.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Castello",
+    "english_definition": "Castle",
+    "target_definition": "Antica fortezza difensiva.",
+    "target_definition_translation": "Ancient defensive fortress.",
+    "example": "Il re viveva nel castello.",
+    "example_translation": "The king lived in the castle.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Torre",
+    "english_definition": "Tower",
+    "target_definition": "Edificio alto e stretto.",
+    "target_definition_translation": "Tall and narrow building.",
+    "example": "La torre ha molte scale.",
+    "example_translation": "The tower has many stairs.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Chiesa",
+    "english_definition": "Church",
+    "target_definition": "Edificio per il culto religioso.",
+    "target_definition_translation": "Building for religious worship.",
+    "example": "La chiesa è molto antica.",
+    "example_translation": "The church is very ancient.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ospedale",
+    "english_definition": "Hospital",
+    "target_definition": "Luogo dove si curano i malati.",
+    "target_definition_translation": "Place where the sick are treated.",
+    "example": "Devo andare in ospedale.",
+    "example_translation": "I must go to the hospital.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Banca",
+    "english_definition": "Bank",
+    "target_definition": "Istituto che gestisce il denaro.",
+    "target_definition_translation": "Institute that manages money.",
+    "example": "Ho prelevato soldi in banca.",
+    "example_translation": "I withdrew money at the bank.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ufficio",
+    "english_definition": "Office",
+    "target_definition": "Luogo in cui si svolge lavoro amministrativo.",
+    "target_definition_translation": "Place where administrative work is done.",
+    "example": "Lavoro in questo ufficio.",
+    "example_translation": "I work in this office.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Fabbrica",
+    "english_definition": "Factory",
+    "target_definition": "Luogo dove si producono beni.",
+    "target_definition_translation": "Place where goods are produced.",
+    "example": "La fabbrica produce auto.",
+    "example_translation": "The factory produces cars.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Teatro",
+    "english_definition": "Theater",
+    "target_definition": "Edificio per spettacoli e recitazione.",
+    "target_definition_translation": "Building for shows and acting.",
+    "example": "Stasera andiamo a teatro.",
+    "example_translation": "Tonight we go to the theater.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Museo",
+    "english_definition": "Museum",
+    "target_definition": "Luogo che espone opere d'arte.",
+    "target_definition_translation": "Place that exhibits works of art.",
+    "example": "Il museo è chiuso il lunedì.",
+    "example_translation": "The museum is closed on Mondays.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Parco",
+    "english_definition": "Park",
+    "target_definition": "Area verde per il tempo libero.",
+    "target_definition_translation": "Green area for leisure.",
+    "example": "I bambini corrono nel parco.",
+    "example_translation": "Children run in the park.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Giardino",
+    "english_definition": "Garden",
+    "target_definition": "Terreno coltivato con piante e fiori.",
+    "target_definition_translation": "Land cultivated with plants and flowers.",
+    "example": "Il giardino è pieno di rose.",
+    "example_translation": "The garden is full of roses.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Prato",
+    "english_definition": "Lawn",
+    "target_definition": "Terreno coperto di erba.",
+    "target_definition_translation": "Land covered with grass.",
+    "example": "Ci siamo seduti sul prato.",
+    "example_translation": "We sat on the lawn.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Collina",
+    "english_definition": "Hill",
+    "target_definition": "Rilievo del terreno non molto alto.",
+    "target_definition_translation": "Relief of the ground not very high.",
+    "example": "La casa è sulla collina.",
+    "example_translation": "The house is on the hill.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Valle",
+    "english_definition": "Valley",
+    "target_definition": "Pianura compresa tra due montagne.",
+    "target_definition_translation": "Plain enclosed between two mountains.",
+    "example": "La nebbia copre la valle.",
+    "example_translation": "The fog covers the valley.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pietra",
+    "english_definition": "Stone",
+    "target_definition": "Materiale minerale duro.",
+    "target_definition_translation": "Hard mineral material.",
+    "example": "Ha lanciato una pietra.",
+    "example_translation": "He threw a stone.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Roccia",
+    "english_definition": "Rock",
+    "target_definition": "Grande massa di pietra.",
+    "target_definition_translation": "Large mass of stone.",
+    "example": "L'arrampicatore scala la roccia.",
+    "example_translation": "The climber scales the rock.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Oro",
+    "english_definition": "Gold",
+    "target_definition": "Metallo prezioso di colore giallo.",
+    "target_definition_translation": "Precious yellow metal.",
+    "example": "L'anello è fatto di oro.",
+    "example_translation": "The ring is made of gold.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Argento",
+    "english_definition": "Silver",
+    "target_definition": "Metallo prezioso di colore bianco lucido.",
+    "target_definition_translation": "Precious shiny white metal.",
+    "example": "Ha vinto la medaglia d'argento.",
+    "example_translation": "He won the silver medal.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ferro",
+    "english_definition": "Iron",
+    "target_definition": "Metallo molto resistente e comune.",
+    "target_definition_translation": "Very strong and common metal.",
+    "example": "Il cancello è di ferro.",
+    "example_translation": "The gate is made of iron.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Legno",
+    "english_definition": "Wood",
+    "target_definition": "Materiale ricavato dagli alberi.",
+    "target_definition_translation": "Material obtained from trees.",
+    "example": "Il tavolo è di legno massiccio.",
+    "example_translation": "The table is of solid wood.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Plastica",
+    "english_definition": "Plastic",
+    "target_definition": "Materiale sintetico modellabile.",
+    "target_definition_translation": "Moldable synthetic material.",
+    "example": "La bottiglia è di plastica.",
+    "example_translation": "The bottle is made of plastic.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Gomma",
+    "english_definition": "Rubber",
+    "target_definition": "Materiale elastico.",
+    "target_definition_translation": "Elastic material.",
+    "example": "Le suole sono in gomma.",
+    "example_translation": "The soles are made of rubber.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Fumo",
+    "english_definition": "Smoke",
+    "target_definition": "Gas visibile prodotto da un fuoco.",
+    "target_definition_translation": "Visible gas produced by a fire.",
+    "example": "Vedo del fumo in lontananza.",
+    "example_translation": "I see smoke in the distance.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cenere",
+    "english_definition": "Ash",
+    "target_definition": "Residuo grigio di qualcosa di bruciato.",
+    "target_definition_translation": "Gray residue of something burned.",
+    "example": "Il fuoco è diventato cenere.",
+    "example_translation": "The fire turned to ash.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Luce",
+    "english_definition": "Light",
+    "target_definition": "Radiazione che permette di vedere.",
+    "target_definition_translation": "Radiation that allows seeing.",
+    "example": "Spegni la luce quando esci.",
+    "example_translation": "Turn off the light when you leave.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Buio",
+    "english_definition": "Dark",
+    "target_definition": "Mancanza di luce.",
+    "target_definition_translation": "Lack of light.",
+    "example": "Ho paura del buio.",
+    "example_translation": "I am afraid of the dark.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ombra",
+    "english_definition": "Shadow",
+    "target_definition": "Zona scura creata da un corpo.",
+    "target_definition_translation": "Dark area created by a body.",
+    "example": "Riposiamo all'ombra dell'albero.",
+    "example_translation": "Let's rest in the shadow of the tree.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Forma",
+    "english_definition": "Shape",
+    "target_definition": "L'aspetto esteriore di un oggetto.",
+    "target_definition_translation": "The outward appearance of an object.",
+    "example": "Il cerchio è una forma.",
+    "example_translation": "The circle is a shape.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Linea",
+    "english_definition": "Line",
+    "target_definition": "Tratto continuo.",
+    "target_definition_translation": "Continuous stroke.",
+    "example": "Disegna una linea retta.",
+    "example_translation": "Draw a straight line.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Punto",
+    "english_definition": "Point",
+    "target_definition": "Piccolissimo segno tondo.",
+    "target_definition_translation": "Very small round mark.",
+    "example": "Metti un punto alla fine.",
+    "example_translation": "Put a point at the end.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Angolo",
+    "english_definition": "Angle",
+    "target_definition": "Spazio tra due linee che si incontrano.",
+    "target_definition_translation": "Space between two lines that meet.",
+    "example": "Metti la sedia nell'angolo.",
+    "example_translation": "Put the chair in the angle.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Centro",
+    "english_definition": "Center",
+    "target_definition": "Il punto medio di una figura o luogo.",
+    "target_definition_translation": "The middle point of a figure or place.",
+    "example": "Vivo nel centro della città.",
+    "example_translation": "I live in the center of the city.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lato",
+    "english_definition": "Side",
+    "target_definition": "Ognuna delle facce di un oggetto.",
+    "target_definition_translation": "Each of the faces of an object.",
+    "example": "Siediti al mio lato.",
+    "example_translation": "Sit by my side.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Bordo",
+    "english_definition": "Edge",
+    "target_definition": "Il limite estremo di una superficie.",
+    "target_definition_translation": "The extreme limit of a surface.",
+    "example": "Non camminare sul bordo.",
+    "example_translation": "Do not walk on the edge.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cima",
+    "english_definition": "Top",
+    "target_definition": "La parte più alta.",
+    "target_definition_translation": "The highest part.",
+    "example": "Siamo arrivati in cima alla montagna.",
+    "example_translation": "We reached the top of the mountain.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Fondo",
+    "english_definition": "Bottom",
+    "target_definition": "La parte più bassa.",
+    "target_definition_translation": "The lowest part.",
+    "example": "La chiave è sul fondo del mare.",
+    "example_translation": "The key is at the bottom of the sea.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Destra",
+    "english_definition": "Right",
+    "target_definition": "Direzione opposta a sinistra.",
+    "target_definition_translation": "Direction opposite to left.",
+    "example": "Gira a destra al semaforo.",
+    "example_translation": "Turn right at the traffic light.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sinistra",
+    "english_definition": "Left",
+    "target_definition": "Direzione opposta a destra.",
+    "target_definition_translation": "Direction opposite to right.",
+    "example": "La mia casa è a sinistra.",
+    "example_translation": "My house is on the left.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Dentro",
+    "english_definition": "Inside",
+    "target_definition": "Nello spazio interno.",
+    "target_definition_translation": "In the interior space.",
+    "example": "Il gatto è dentro la scatola.",
+    "example_translation": "The cat is inside the box.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Fuori",
+    "english_definition": "Outside",
+    "target_definition": "Nello spazio esterno.",
+    "target_definition_translation": "In the exterior space.",
+    "example": "Aspettami fuori.",
+    "example_translation": "Wait for me outside.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sopra",
+    "english_definition": "Above",
+    "target_definition": "In una posizione superiore.",
+    "target_definition_translation": "In a superior position.",
+    "example": "Il libro è sopra il tavolo.",
+    "example_translation": "The book is above the table.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sotto",
+    "english_definition": "Below",
+    "target_definition": "In una posizione inferiore.",
+    "target_definition_translation": "In an inferior position.",
+    "example": "Il cane è sotto il letto.",
+    "example_translation": "The dog is below the bed.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Dietro",
+    "english_definition": "Behind",
+    "target_definition": "Nella parte posteriore.",
+    "target_definition_translation": "In the posterior part.",
+    "example": "C'è qualcuno dietro di te.",
+    "example_translation": "There is someone behind you.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Davanti",
+    "english_definition": "Front",
+    "target_definition": "Nella parte anteriore.",
+    "target_definition_translation": "In the anterior part.",
+    "example": "C'è un ostacolo davanti a noi.",
+    "example_translation": "There is an obstacle in front of us.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Accanto",
+    "english_definition": "Beside",
+    "target_definition": "Molto vicino a qualcosa o qualcuno.",
+    "target_definition_translation": "Very close to something or someone.",
+    "example": "Siediti accanto a me.",
+    "example_translation": "Sit beside me.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Oltre",
+    "english_definition": "Beyond",
+    "target_definition": "Più in là rispetto a un limite.",
+    "target_definition_translation": "Further than a limit.",
+    "example": "Non andare oltre quella linea.",
+    "example_translation": "Do not go beyond that line.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Contro",
+    "english_definition": "Against",
+    "target_definition": "In opposizione a qualcuno o qualcosa.",
+    "target_definition_translation": "In opposition to someone or something.",
+    "example": "Ha lottato contro il nemico.",
+    "example_translation": "He fought against the enemy.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tra",
+    "english_definition": "Between",
+    "target_definition": "Nello spazio intermedio.",
+    "target_definition_translation": "In the intermediate space.",
+    "example": "Sono seduto tra due amici.",
+    "example_translation": "I am sitting between two friends.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Durante",
+    "english_definition": "During",
+    "target_definition": "Nello svolgimento di un evento.",
+    "target_definition_translation": "In the course of an event.",
+    "example": "Non parlare durante il film.",
+    "example_translation": "Do not speak during the movie.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Fino",
+    "english_definition": "Until",
+    "target_definition": "A indicare il limite di tempo o spazio.",
+    "target_definition_translation": "To indicate the limit of time or space.",
+    "example": "Aspetterò fino a domani.",
+    "example_translation": "I will wait until tomorrow.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Insieme",
+    "english_definition": "Together",
+    "target_definition": "Con altre persone o cose.",
+    "target_definition_translation": "With other people or things.",
+    "example": "Andiamo alla festa insieme.",
+    "example_translation": "Let's go to the party together.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Solo",
+    "english_definition": "Alone",
+    "target_definition": "Senza nessun altro.",
+    "target_definition_translation": "Without anyone else.",
+    "example": "Oggi sono rimasto solo.",
+    "example_translation": "Today I was left alone.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tutti",
+    "english_definition": "Everyone",
+    "target_definition": "L'intera totalità delle persone.",
+    "target_definition_translation": "The entirety of the people.",
+    "example": "Tutti sono felici oggi.",
+    "example_translation": "Everyone is happy today.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Nessuno",
+    "english_definition": "Nobody",
+    "target_definition": "Nemmeno una persona.",
+    "target_definition_translation": "Not even one person.",
+    "example": "Nessuno ha risposto alla domanda.",
+    "example_translation": "Nobody answered the question.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Qualcuno",
+    "english_definition": "Someone",
+    "target_definition": "Una persona non specificata.",
+    "target_definition_translation": "An unspecified person.",
+    "example": "C'è qualcuno alla porta.",
+    "example_translation": "There is someone at the door.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Qualcosa",
+    "english_definition": "Something",
+    "target_definition": "Una cosa non specificata.",
+    "target_definition_translation": "An unspecified thing.",
+    "example": "Voglio mangiare qualcosa.",
+    "example_translation": "I want to eat something.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Niente",
+    "english_definition": "Nothing",
+    "target_definition": "Nessuna cosa.",
+    "target_definition_translation": "Not any thing.",
+    "example": "Non ho niente da dire.",
+    "example_translation": "I have nothing to say.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tutto",
+    "english_definition": "Everything",
+    "target_definition": "L'intera totalità delle cose.",
+    "target_definition_translation": "The entirety of things.",
+    "example": "Ho perso tutto.",
+    "example_translation": "I lost everything.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Parecchi",
+    "english_definition": "Several",
+    "target_definition": "Un certo numero, più di alcuni.",
+    "target_definition_translation": "A certain number, more than a few.",
+    "example": "Ho parecchi amici in Italia.",
+    "example_translation": "I have several friends in Italy.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Alcuni",
+    "english_definition": "Some",
+    "target_definition": "Un piccolo numero di persone o cose.",
+    "target_definition_translation": "A small number of people or things.",
+    "example": "Alcuni studenti sono assenti.",
+    "example_translation": "Some students are absent.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ogni",
+    "english_definition": "Each",
+    "target_definition": "Tutti considerati singolarmente.",
+    "target_definition_translation": "All considered individually.",
+    "example": "Ogni giorno è importante.",
+    "example_translation": "Each day is important.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Qualsiasi",
+    "english_definition": "Any",
+    "target_definition": "Senza distinzione.",
+    "target_definition_translation": "Without distinction.",
+    "example": "Puoi scegliere qualsiasi colore.",
+    "example_translation": "You can choose any color.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Stesso",
+    "english_definition": "Same",
+    "target_definition": "Identico, non diverso.",
+    "target_definition_translation": "Identical, not different.",
+    "example": "Abbiamo la stessa macchina.",
+    "example_translation": "We have the same car.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Diverso",
+    "english_definition": "Different",
+    "target_definition": "Non uguale.",
+    "target_definition_translation": "Not equal.",
+    "example": "Questo è un problema diverso.",
+    "example_translation": "This is a different problem.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Altro",
+    "english_definition": "Other",
+    "target_definition": "Differente da quello menzionato.",
+    "target_definition_translation": "Different from the one mentioned.",
+    "example": "Voglio un altro pezzo di torta.",
+    "example_translation": "I want an other piece of cake.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Recente",
+    "english_definition": "Recent",
+    "target_definition": "Accaduto da poco tempo.",
+    "target_definition_translation": "Happened a short time ago.",
+    "example": "È un evento molto recente.",
+    "example_translation": "It is a very recent event.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Antico",
+    "english_definition": "Ancient",
+    "target_definition": "Che appartiene a un passato lontano.",
+    "target_definition_translation": "Belonging to a distant past.",
+    "example": "Visito un monumento antico.",
+    "example_translation": "I visit an ancient monument.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Moderno",
+    "english_definition": "Modern",
+    "target_definition": "Appartenente all'epoca attuale.",
+    "target_definition_translation": "Belonging to the current era.",
+    "example": "È un edificio molto moderno.",
+    "example_translation": "It is a very modern building.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Epoca",
+    "english_definition": "Epoch",
+    "target_definition": "Lungo periodo storico.",
+    "target_definition_translation": "Long historical period.",
+    "example": "Questa è una nuova epoca.",
+    "example_translation": "This is a new epoch.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Secolo",
+    "english_definition": "Century",
+    "target_definition": "Periodo di cento anni.",
+    "target_definition_translation": "Period of a hundred years.",
+    "example": "Viviamo nel ventunesimo secolo.",
+    "example_translation": "We live in the twenty-first century.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Decennio",
+    "english_definition": "Decade",
+    "target_definition": "Periodo di dieci anni.",
+    "target_definition_translation": "Period of ten years.",
+    "example": "È stato il miglior decennio.",
+    "example_translation": "It was the best decade.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Minuto",
+    "english_definition": "Minute",
+    "target_definition": "Sessanta secondi.",
+    "target_definition_translation": "Sixty seconds.",
+    "example": "Dammi un minuto, per favore.",
+    "example_translation": "Give me a minute, please.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ora",
+    "english_definition": "Hour",
+    "target_definition": "Sessanta minuti.",
+    "target_definition_translation": "Sixty minutes.",
+    "example": "Il treno parte tra un'ora.",
+    "example_translation": "The train leaves in an hour.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Secondo",
+    "english_definition": "Second",
+    "target_definition": "Frazione brevissima di tempo.",
+    "target_definition_translation": "Very short fraction of time.",
+    "example": "Aspetta solo un secondo.",
+    "example_translation": "Wait just a second.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Orologio",
+    "english_definition": "Clock",
+    "target_definition": "Strumento per misurare il tempo.",
+    "target_definition_translation": "Instrument to measure time.",
+    "example": "Guarda l'orologio sul muro.",
+    "example_translation": "Look at the clock on the wall.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sveglia",
+    "english_definition": "Alarm",
+    "target_definition": "Orologio che suona per svegliare.",
+    "target_definition_translation": "Clock that rings to wake up.",
+    "example": "La sveglia suona alle sette.",
+    "example_translation": "The alarm rings at seven.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Calendario",
+    "english_definition": "Calendar",
+    "target_definition": "Sistema per dividere il tempo.",
+    "target_definition_translation": "System for dividing time.",
+    "example": "Segna la data sul calendario.",
+    "example_translation": "Mark the date on the calendar.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Settimana",
+    "english_definition": "Week",
+    "target_definition": "Periodo di sette giorni.",
+    "target_definition_translation": "Period of seven days.",
+    "example": "La prossima settimana sarò in ferie.",
+    "example_translation": "Next week I will be on vacation.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Metà",
+    "english_definition": "Half",
+    "target_definition": "Una delle due parti uguali.",
+    "target_definition_translation": "One of the two equal parts.",
+    "example": "Taglia la torta a metà.",
+    "example_translation": "Cut the cake in half.",
+    "repetitionLevel": 0
   }
 ]
