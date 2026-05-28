@@ -5981,5 +5981,1005 @@
     "example_translation": "A cold beer, please.",
     "repetitionLevel": 0
   },
+{
+    "language": "it",
+    "word": "Chitarra",
+    "english_definition": "Guitar",
+    "target_definition": "Strumento musicale a corde.",
+    "target_definition_translation": "Stringed musical instrument.",
+    "example": "Suono la chitarra nella mia band.",
+    "example_translation": "I play the guitar in my band.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pianoforte",
+    "english_definition": "Piano",
+    "target_definition": "Strumento musicale con tasti bianchi e neri.",
+    "target_definition_translation": "Musical instrument with white and black keys.",
+    "example": "Lei prende lezioni di pianoforte.",
+    "example_translation": "She takes piano lessons.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tamburo",
+    "english_definition": "Drum",
+    "target_definition": "Strumento musicale a percussione.",
+    "target_definition_translation": "Percussion musical instrument.",
+    "example": "Il tamburo batte il ritmo.",
+    "example_translation": "The drum beats the rhythm.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Violino",
+    "english_definition": "Violin",
+    "target_definition": "Strumento a corde suonato con un archetto.",
+    "target_definition_translation": "Stringed instrument played with a bow.",
+    "example": "Il suono del violino è molto dolce.",
+    "example_translation": "The sound of the violin is very sweet.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Flauto",
+    "english_definition": "Flute",
+    "target_definition": "Strumento musicale a fiato.",
+    "target_definition_translation": "Wind musical instrument.",
+    "example": "Ha imparato a suonare il flauto a scuola.",
+    "example_translation": "He learned to play the flute at school.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cantante",
+    "english_definition": "Singer",
+    "target_definition": "Persona che canta per professione o passione.",
+    "target_definition_translation": "Person who sings for profession or passion.",
+    "example": "Il cantante ha una voce bellissima.",
+    "example_translation": "The singer has a beautiful voice.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Canzone",
+    "english_definition": "Song",
+    "target_definition": "Composizione musicale con parole.",
+    "target_definition_translation": "Musical composition with words.",
+    "example": "Questa è la mia canzone preferita.",
+    "example_translation": "This is my favorite song.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Concerto",
+    "english_definition": "Concert",
+    "target_definition": "Spettacolo musicale dal vivo.",
+    "target_definition_translation": "Live musical performance.",
+    "example": "Sabato andiamo a un concerto rock.",
+    "example_translation": "Saturday we are going to a rock concert.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Palcoscenico",
+    "english_definition": "Stage",
+    "target_definition": "Piattaforma dove si esibiscono gli artisti.",
+    "target_definition_translation": "Platform where artists perform.",
+    "example": "L'attore è salito sul palcoscenico.",
+    "example_translation": "The actor went up on the stage.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Biglietteria",
+    "english_definition": "Ticket office",
+    "target_definition": "Luogo dove si vendono i biglietti.",
+    "target_definition_translation": "Place where tickets are sold.",
+    "example": "C'è una lunga fila alla biglietteria.",
+    "example_translation": "There is a long line at the ticket office.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Zaino",
+    "english_definition": "Backpack",
+    "target_definition": "Sacca da portare sulle spalle.",
+    "target_definition_translation": "Bag to carry on the shoulders.",
+    "example": "Metto i libri nello zaino.",
+    "example_translation": "I put the books in the backpack.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Quaderno",
+    "english_definition": "Notebook",
+    "target_definition": "Insieme di fogli per prendere appunti.",
+    "target_definition_translation": "Set of sheets to take notes.",
+    "example": "Scrivo gli appunti sul quaderno.",
+    "example_translation": "I write the notes in the notebook.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Matita",
+    "english_definition": "Pencil",
+    "target_definition": "Strumento per scrivere a tratto cancellabile.",
+    "target_definition_translation": "Tool for writing with an erasable stroke.",
+    "example": "Disegno un fiore con la matita.",
+    "example_translation": "I draw a flower with the pencil.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Righello",
+    "english_definition": "Ruler",
+    "target_definition": "Strumento per misurare o tirare linee dritte.",
+    "target_definition_translation": "Tool to measure or draw straight lines.",
+    "example": "Usa il righello per essere preciso.",
+    "example_translation": "Use the ruler to be precise.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Astuccio",
+    "english_definition": "Pencil case",
+    "target_definition": "Contenitore per penne e matite.",
+    "target_definition_translation": "Container for pens and pencils.",
+    "example": "Ho perso il mio astuccio a scuola.",
+    "example_translation": "I lost my pencil case at school.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lavagna",
+    "english_definition": "Blackboard",
+    "target_definition": "Pannello scuro su cui si scrive con il gesso.",
+    "target_definition_translation": "Dark panel on which you write with chalk.",
+    "example": "L'insegnante scrive sulla lavagna.",
+    "example_translation": "The teacher writes on the blackboard.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Gesso",
+    "english_definition": "Chalk",
+    "target_definition": "Materiale bianco usato per scrivere sulla lavagna.",
+    "target_definition_translation": "White material used to write on the blackboard.",
+    "example": "Non c'è più gesso per scrivere.",
+    "example_translation": "There is no more chalk to write.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Scrivania",
+    "english_definition": "Desk",
+    "target_definition": "Tavolo usato per studiare o lavorare.",
+    "target_definition_translation": "Table used to study or work.",
+    "example": "Ho messo il computer sulla scrivania.",
+    "example_translation": "I put the computer on the desk.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Compito",
+    "english_definition": "Homework / Task",
+    "target_definition": "Lavoro assegnato da fare a casa o a scuola.",
+    "target_definition_translation": "Work assigned to do at home or school.",
+    "example": "Ho finito il compito di matematica.",
+    "example_translation": "I finished the math homework.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Esame",
+    "english_definition": "Exam",
+    "target_definition": "Prova per valutare le conoscenze.",
+    "target_definition_translation": "Test to evaluate knowledge.",
+    "example": "Sono nervoso per l'esame di domani.",
+    "example_translation": "I am nervous about tomorrow's exam.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Calcio",
+    "english_definition": "Soccer",
+    "target_definition": "Sport giocato con i piedi e un pallone.",
+    "target_definition_translation": "Sport played with feet and a ball.",
+    "example": "Il calcio è molto popolare in Italia.",
+    "example_translation": "Soccer is very popular in Italy.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pallacanestro",
+    "english_definition": "Basketball",
+    "target_definition": "Sport dove si lancia la palla in un cesto.",
+    "target_definition_translation": "Sport where you throw the ball into a basket.",
+    "example": "I giocatori di pallacanestro sono molto alti.",
+    "example_translation": "Basketball players are very tall.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pallavolo",
+    "english_definition": "Volleyball",
+    "target_definition": "Sport dove si colpisce la palla sopra una rete.",
+    "target_definition_translation": "Sport where you hit the ball over a net.",
+    "example": "Giochiamo a pallavolo sulla spiaggia.",
+    "example_translation": "Let's play volleyball on the beach.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Nuoto",
+    "english_definition": "Swimming",
+    "target_definition": "Sport che si pratica in acqua.",
+    "target_definition_translation": "Sport practiced in water.",
+    "example": "Il nuoto fa bene alla schiena.",
+    "example_translation": "Swimming is good for the back.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Corsa",
+    "english_definition": "Running / Race",
+    "target_definition": "Gara di velocità a piedi.",
+    "target_definition_translation": "Speed race on foot.",
+    "example": "Ha vinto la corsa dei cento metri.",
+    "example_translation": "He won the hundred meters race.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Palestra",
+    "english_definition": "Gym",
+    "target_definition": "Luogo chiuso attrezzato per lo sport.",
+    "target_definition_translation": "Indoor place equipped for sports.",
+    "example": "Vado in palestra tre volte a settimana.",
+    "example_translation": "I go to the gym three times a week.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Allenatore",
+    "english_definition": "Coach",
+    "target_definition": "Chi prepara gli atleti per una gara.",
+    "target_definition_translation": "One who prepares athletes for a competition.",
+    "example": "L'allenatore motiva la squadra.",
+    "example_translation": "The coach motivates the team.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Arbitro",
+    "english_definition": "Referee",
+    "target_definition": "Giudice di una competizione sportiva.",
+    "target_definition_translation": "Judge of a sports competition.",
+    "example": "L'arbitro ha fischiato la fine della partita.",
+    "example_translation": "The referee blew the whistle for the end of the match.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Medaglia",
+    "english_definition": "Medal",
+    "target_definition": "Premio in metallo per un vincitore.",
+    "target_definition_translation": "Metal prize for a winner.",
+    "example": "Ha vinto la medaglia d'oro.",
+    "example_translation": "She won the gold medal.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Campione",
+    "english_definition": "Champion",
+    "target_definition": "Chi vince una competizione importante.",
+    "target_definition_translation": "One who wins an important competition.",
+    "example": "Lui è un campione del mondo.",
+    "example_translation": "He is a world champion.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Aspirapolvere",
+    "english_definition": "Vacuum cleaner",
+    "target_definition": "Elettrodomestico per togliere la polvere.",
+    "target_definition_translation": "Appliance to remove dust.",
+    "example": "Passo l'aspirapolvere in salotto.",
+    "example_translation": "I vacuum the living room.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lavatrice",
+    "english_definition": "Washing machine",
+    "target_definition": "Elettrodomestico per lavare i vestiti.",
+    "target_definition_translation": "Appliance for washing clothes.",
+    "example": "Devo fare una lavatrice di vestiti bianchi.",
+    "example_translation": "I need to do a load of white clothes.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lavastoviglie",
+    "english_definition": "Dishwasher",
+    "target_definition": "Macchina per lavare piatti e bicchieri.",
+    "target_definition_translation": "Machine for washing plates and glasses.",
+    "example": "Metti i piatti sporchi nella lavastoviglie.",
+    "example_translation": "Put the dirty plates in the dishwasher.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ferro da stiro",
+    "english_definition": "Iron (appliance)",
+    "target_definition": "Apparecchio per togliere le pieghe dai tessuti.",
+    "target_definition_translation": "Device for removing wrinkles from fabrics.",
+    "example": "Mi serve il ferro da stiro per la camicia.",
+    "example_translation": "I need the iron for the shirt.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Microonde",
+    "english_definition": "Microwave",
+    "target_definition": "Forno che scalda il cibo velocemente.",
+    "target_definition_translation": "Oven that heats food quickly.",
+    "example": "Riscalda la zuppa nel microonde.",
+    "example_translation": "Heat the soup in the microwave.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Frullatore",
+    "english_definition": "Blender",
+    "target_definition": "Apparecchio per tritare e mescolare cibi.",
+    "target_definition_translation": "Device to chop and mix foods.",
+    "example": "Preparo un frullato di frutta nel frullatore.",
+    "example_translation": "I prepare a fruit smoothie in the blender.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tostapane",
+    "english_definition": "Toaster",
+    "target_definition": "Apparecchio elettrico per abbrustolire il pane.",
+    "target_definition_translation": "Electrical device for toasting bread.",
+    "example": "Ho messo due fette nel tostapane.",
+    "example_translation": "I put two slices in the toaster.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ventilatore",
+    "english_definition": "Fan",
+    "target_definition": "Apparecchio a pale per rinfrescare l'aria.",
+    "target_definition_translation": "Bladed device for cooling the air.",
+    "example": "Accendi il ventilatore, fa troppo caldo.",
+    "example_translation": "Turn on the fan, it is too hot.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Condizionatore",
+    "english_definition": "Air conditioner",
+    "target_definition": "Impianto per rinfrescare una stanza.",
+    "target_definition_translation": "System for cooling a room.",
+    "example": "Il condizionatore consuma molta energia.",
+    "example_translation": "The air conditioner consumes a lot of energy.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Riscaldamento",
+    "english_definition": "Heating",
+    "target_definition": "Sistema per produrre calore in un edificio.",
+    "target_definition_translation": "System to produce heat in a building.",
+    "example": "Abbiamo acceso il riscaldamento per l'inverno.",
+    "example_translation": "We turned on the heating for the winter.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pianeta",
+    "english_definition": "Planet",
+    "target_definition": "Corpo celeste che orbita intorno a una stella.",
+    "target_definition_translation": "Celestial body orbiting around a star.",
+    "example": "Marte è il pianeta rosso.",
+    "example_translation": "Mars is the red planet.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Galassia",
+    "english_definition": "Galaxy",
+    "target_definition": "Enorme insieme di stelle e sistemi solari.",
+    "target_definition_translation": "Huge set of stars and solar systems.",
+    "example": "La nostra galassia si chiama Via Lattea.",
+    "example_translation": "Our galaxy is called the Milky Way.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Universo",
+    "english_definition": "Universe",
+    "target_definition": "L'insieme di tutto lo spazio e la materia esistente.",
+    "target_definition_translation": "The set of all existing space and matter.",
+    "example": "L'universo è infinito.",
+    "example_translation": "The universe is infinite.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Stella cadente",
+    "english_definition": "Shooting star",
+    "target_definition": "Meteora luminosa che passa nel cielo.",
+    "target_definition_translation": "Luminous meteor passing in the sky.",
+    "example": "Esprimi un desiderio, c'è una stella cadente!",
+    "example_translation": "Make a wish, there is a shooting star!",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cometa",
+    "english_definition": "Comet",
+    "target_definition": "Corpo celeste con una lunga coda luminosa.",
+    "target_definition_translation": "Celestial body with a long luminous tail.",
+    "example": "La cometa passò vicino alla Terra.",
+    "example_translation": "The comet passed close to Earth.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Telescopio",
+    "english_definition": "Telescope",
+    "target_definition": "Strumento per osservare oggetti lontani nello spazio.",
+    "target_definition_translation": "Instrument to observe distant objects in space.",
+    "example": "Guardo la luna con il mio telescopio.",
+    "example_translation": "I look at the moon with my telescope.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Astronauta",
+    "english_definition": "Astronaut",
+    "target_definition": "Persona che viaggia nello spazio.",
+    "target_definition_translation": "Person who travels in space.",
+    "example": "L'astronauta galleggia nella stazione spaziale.",
+    "example_translation": "The astronaut floats in the space station.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Navicella",
+    "english_definition": "Spaceship",
+    "target_definition": "Veicolo usato per i viaggi spaziali.",
+    "target_definition_translation": "Vehicle used for space travel.",
+    "example": "La navicella è atterrata su Marte.",
+    "example_translation": "The spaceship landed on Mars.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Orbita",
+    "english_definition": "Orbit",
+    "target_definition": "Traiettoria curva di un corpo celeste.",
+    "target_definition_translation": "Curved trajectory of a celestial body.",
+    "example": "Il satellite è entrato in orbita.",
+    "example_translation": "The satellite entered into orbit.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Gravità",
+    "english_definition": "Gravity",
+    "target_definition": "Forza che attira i corpi verso il centro della Terra.",
+    "target_definition_translation": "Force that attracts bodies towards the center of the Earth.",
+    "example": "Sulla luna c'è meno gravità.",
+    "example_translation": "On the moon there is less gravity.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Coraggioso",
+    "english_definition": "Brave",
+    "target_definition": "Persona che non si arrende alla paura.",
+    "target_definition_translation": "Person who does not surrender to fear.",
+    "example": "Il pompiere è stato molto coraggioso.",
+    "example_translation": "The firefighter was very brave.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Codardo",
+    "english_definition": "Coward",
+    "target_definition": "Chi ha troppa paura di affrontare i pericoli.",
+    "target_definition_translation": "One who is too afraid to face dangers.",
+    "example": "Scappare via è da codardo.",
+    "example_translation": "Running away is for a coward.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Generoso",
+    "english_definition": "Generous",
+    "target_definition": "Persona che dona volentieri agli altri.",
+    "target_definition_translation": "Person who gives willingly to others.",
+    "example": "Mio nonno era un uomo molto generoso.",
+    "example_translation": "My grandfather was a very generous man.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Egoista",
+    "english_definition": "Selfish",
+    "target_definition": "Chi pensa solo al proprio interesse.",
+    "target_definition_translation": "One who thinks only of their own interest.",
+    "example": "Non essere egoista, condividi i tuoi giochi.",
+    "example_translation": "Don't be selfish, share your toys.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Gentile",
+    "english_definition": "Kind",
+    "target_definition": "Persona educata e cortese.",
+    "target_definition_translation": "Polite and courteous person.",
+    "example": "Grazie, sei stato molto gentile.",
+    "example_translation": "Thank you, you were very kind.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Maleducato",
+    "english_definition": "Rude",
+    "target_definition": "Persona priva di buone maniere.",
+    "target_definition_translation": "Person lacking good manners.",
+    "example": "Quel cliente è stato maleducato con il cameriere.",
+    "example_translation": "That customer was rude to the waiter.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Intelligente",
+    "english_definition": "Intelligent",
+    "target_definition": "Persona dotata di molta intelligenza.",
+    "target_definition_translation": "Person endowed with much intelligence.",
+    "example": "Albert Einstein era un uomo intelligente.",
+    "example_translation": "Albert Einstein was an intelligent man.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Stupido",
+    "english_definition": "Stupid",
+    "target_definition": "Privo di intelligenza o buon senso.",
+    "target_definition_translation": "Lacking intelligence or common sense.",
+    "example": "È stata un'idea stupida.",
+    "example_translation": "It was a stupid idea.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Divertente",
+    "english_definition": "Funny",
+    "target_definition": "Che fa ridere o sorridere.",
+    "target_definition_translation": "That makes one laugh or smile.",
+    "example": "Quel comico è davvero divertente.",
+    "example_translation": "That comedian is really funny.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Noioso",
+    "english_definition": "Boring",
+    "target_definition": "Che provoca noia e stanchezza mentale.",
+    "target_definition_translation": "That provokes boredom and mental fatigue.",
+    "example": "Questo film è lungo e noioso.",
+    "example_translation": "This movie is long and boring.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Strano",
+    "english_definition": "Strange",
+    "target_definition": "Fuori dal comune, insolito.",
+    "target_definition_translation": "Out of the ordinary, unusual.",
+    "example": "Ho sentito un rumore strano in cantina.",
+    "example_translation": "I heard a strange noise in the cellar.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Normale",
+    "english_definition": "Normal",
+    "target_definition": "Conforme alla regola o alla media.",
+    "target_definition_translation": "Conforming to the rule or average.",
+    "example": "È normale avere paura prima di un esame.",
+    "example_translation": "It is normal to have fear before an exam.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pazzo",
+    "english_definition": "Crazy",
+    "target_definition": "Privo di ragione o buon senso.",
+    "target_definition_translation": "Lacking reason or common sense.",
+    "example": "Sei pazzo a guidare così veloce!",
+    "example_translation": "You are crazy to drive this fast!",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Serio",
+    "english_definition": "Serious",
+    "target_definition": "Che non scherza, austero.",
+    "target_definition_translation": "Not joking, austere.",
+    "example": "È un professionista molto serio.",
+    "example_translation": "He is a very serious professional.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Timido",
+    "english_definition": "Shy",
+    "target_definition": "Che ha poca confidenza con gli altri.",
+    "target_definition_translation": "Having little confidence with others.",
+    "example": "Il bambino timido si nasconde.",
+    "example_translation": "The shy child hides.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Socievole",
+    "english_definition": "Sociable",
+    "target_definition": "Che ama stare in compagnia.",
+    "target_definition_translation": "Who loves to be in company.",
+    "example": "La mia amica è molto socievole e aperta.",
+    "example_translation": "My friend is very sociable and open.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pigro",
+    "english_definition": "Lazy",
+    "target_definition": "Riluttante alla fatica e al lavoro.",
+    "target_definition_translation": "Reluctant to effort and work.",
+    "example": "Oggi mi sento pigro, resto a letto.",
+    "example_translation": "Today I feel lazy, I'll stay in bed.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Attivo",
+    "english_definition": "Active",
+    "target_definition": "Che opera con energia e rapidità.",
+    "target_definition_translation": "Operating with energy and rapidity.",
+    "example": "Bisogna mantenere un corpo attivo.",
+    "example_translation": "One must maintain an active body.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Curioso",
+    "english_definition": "Curious",
+    "target_definition": "Desideroso di conoscere e scoprire.",
+    "target_definition_translation": "Desirous to know and discover.",
+    "example": "Il gatto è un animale molto curioso.",
+    "example_translation": "The cat is a very curious animal.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Calmo",
+    "english_definition": "Calm",
+    "target_definition": "Tranquillo, non agitato.",
+    "target_definition_translation": "Tranquil, not agitated.",
+    "example": "Resta calmo, andrà tutto bene.",
+    "example_translation": "Stay calm, everything will be fine.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Rabbia",
+    "english_definition": "Anger",
+    "target_definition": "Forte irritazione e furore.",
+    "target_definition_translation": "Strong irritation and fury.",
+    "example": "Non agire mai quando provi rabbia.",
+    "example_translation": "Never act when you feel anger.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Disgusto",
+    "english_definition": "Disgust",
+    "target_definition": "Forte avversione o repulsione fisica.",
+    "target_definition_translation": "Strong physical aversion or repulsion.",
+    "example": "Ho guardato l'insetto con disgusto.",
+    "example_translation": "I looked at the insect with disgust.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Invidia",
+    "english_definition": "Envy",
+    "target_definition": "Desiderio di avere ciò che altri possiedono.",
+    "target_definition_translation": "Desire to have what others possess.",
+    "example": "L'invidia è un sentimento negativo.",
+    "example_translation": "Envy is a negative feeling.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Gelosia",
+    "english_definition": "Jealousy",
+    "target_definition": "Paura di perdere l'affetto di qualcuno.",
+    "target_definition_translation": "Fear of losing someone's affection.",
+    "example": "La gelosia può rovinare una relazione.",
+    "example_translation": "Jealousy can ruin a relationship.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pietà",
+    "english_definition": "Pity",
+    "target_definition": "Sentimento di compassione per il dolore altrui.",
+    "target_definition_translation": "Feeling of compassion for the pain of others.",
+    "example": "Provo pietà per quell'animale ferito.",
+    "example_translation": "I feel pity for that injured animal.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pazienza",
+    "english_definition": "Patience",
+    "target_definition": "Capacità di sopportare le attese senza agitarsi.",
+    "target_definition_translation": "Ability to endure waiting without agitation.",
+    "example": "Ci vuole molta pazienza con i bambini.",
+    "example_translation": "It takes a lot of patience with children.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Rispetto",
+    "english_definition": "Respect",
+    "target_definition": "Sentimento di stima e considerazione.",
+    "target_definition_translation": "Feeling of esteem and consideration.",
+    "example": "Dobbiamo avere rispetto per gli anziani.",
+    "example_translation": "We must have respect for the elderly.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Onore",
+    "english_definition": "Honor",
+    "target_definition": "Stima e dignità morale.",
+    "target_definition_translation": "Esteem and moral dignity.",
+    "example": "Ha combattuto con grande onore.",
+    "example_translation": "He fought with great honor.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Vergogna",
+    "english_definition": "Shame",
+    "target_definition": "Senso di colpa per una cattiva azione.",
+    "target_definition_translation": "Sense of guilt for a bad action.",
+    "example": "Ha abbassato la testa per la vergogna.",
+    "example_translation": "He lowered his head in shame.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Orgoglio",
+    "english_definition": "Pride",
+    "target_definition": "Forte senso del proprio valore o dignità.",
+    "target_definition_translation": "Strong sense of one's own value or dignity.",
+    "example": "Guardava suo figlio con orgoglio.",
+    "example_translation": "He looked at his son with pride.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tradimento",
+    "english_definition": "Betrayal",
+    "target_definition": "Azione di ingannare la fiducia di qualcuno.",
+    "target_definition_translation": "Action of deceiving someone's trust.",
+    "example": "Non posso perdonare un tradimento.",
+    "example_translation": "I cannot forgive a betrayal.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Segreto",
+    "english_definition": "Secret",
+    "target_definition": "Notizia da non rivelare a nessuno.",
+    "target_definition_translation": "News not to be revealed to anyone.",
+    "example": "So mantenere un segreto.",
+    "example_translation": "I know how to keep a secret.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Promessa",
+    "english_definition": "Promise",
+    "target_definition": "Impegno preso solennemente.",
+    "target_definition_translation": "Commitment taken solemnly.",
+    "example": "Devi mantenere la tua promessa.",
+    "example_translation": "You must keep your promise.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Bugiardo",
+    "english_definition": "Liar",
+    "target_definition": "Persona che non dice la verità.",
+    "target_definition_translation": "Person who does not tell the truth.",
+    "example": "Pinocchio era un piccolo bugiardo.",
+    "example_translation": "Pinocchio was a little liar.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Eroe",
+    "english_definition": "Hero",
+    "target_definition": "Persona che compie azioni coraggiose.",
+    "target_definition_translation": "Person who performs brave actions.",
+    "example": "Il pompiere è un vero eroe.",
+    "example_translation": "The firefighter is a real hero.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Nemico",
+    "english_definition": "Enemy",
+    "target_definition": "Chi è ostile o combatte contro di te.",
+    "target_definition_translation": "One who is hostile or fights against you.",
+    "example": "Il nemico si sta avvicinando al castello.",
+    "example_translation": "The enemy is approaching the castle.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Alleato",
+    "english_definition": "Ally",
+    "target_definition": "Persona o nazione unita per uno scopo comune.",
+    "target_definition_translation": "Person or nation united for a common purpose.",
+    "example": "In guerra, hai bisogno di un buon alleato.",
+    "example_translation": "In war, you need a good ally.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Battaglia",
+    "english_definition": "Battle",
+    "target_definition": "Scontro armato tra due eserciti.",
+    "target_definition_translation": "Armed clash between two armies.",
+    "example": "La battaglia durò tre lunghi giorni.",
+    "example_translation": "The battle lasted three long days.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Esercito",
+    "english_definition": "Army",
+    "target_definition": "Insieme delle forze militari di uno Stato.",
+    "target_definition_translation": "Set of military forces of a State.",
+    "example": "Il re ha radunato un grande eserccito.",
+    "example_translation": "The king assembled a large army.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Soldato",
+    "english_definition": "Soldier",
+    "target_definition": "Militare che fa parte di un esercito.",
+    "target_definition_translation": "Military person who is part of an army.",
+    "example": "Il soldato difende il suo paese.",
+    "example_translation": "The soldier defends his country.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Arma",
+    "english_definition": "Weapon",
+    "target_definition": "Strumento usato per offendere o difendersi.",
+    "target_definition_translation": "Instrument used to offend or defend oneself.",
+    "example": "La spada era l'arma principale dei cavalieri.",
+    "example_translation": "The sword was the knights' main weapon.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Spada",
+    "english_definition": "Sword",
+    "target_definition": "Arma bianca con una lunga lama dritta.",
+    "target_definition_translation": "Bladed weapon with a long straight blade.",
+    "example": "Estrasse la spada dal fodero.",
+    "example_translation": "He drew the sword from the scabbard.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Scudo",
+    "english_definition": "Shield",
+    "target_definition": "Arma difensiva usata per parare i colpi.",
+    "target_definition_translation": "Defensive weapon used to parry blows.",
+    "example": "Il cavaliere sollevò il suo scudo pesante.",
+    "example_translation": "The knight raised his heavy shield.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Freccia",
+    "english_definition": "Arrow",
+    "target_definition": "Asta con una punta acuminata lanciata dall'arco.",
+    "target_definition_translation": "Shaft with a sharp point launched by the bow.",
+    "example": "L'arciere scagliò una freccia veloce.",
+    "example_translation": "The archer shot a fast arrow.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Arco",
+    "english_definition": "Bow",
+    "target_definition": "Arma per lanciare frecce usando una corda tesa.",
+    "target_definition_translation": "Weapon for shooting arrows using a taut string.",
+    "example": "Robin Hood usava arco e frecce.",
+    "example_translation": "Robin Hood used bow and arrows.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Re",
+    "english_definition": "King",
+    "target_definition": "Sovrano maschio di un regno.",
+    "target_definition_translation": "Male sovereign of a kingdom.",
+    "example": "Il re indossa una corona d'oro.",
+    "example_translation": "The king wears a gold crown.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Regina",
+    "english_definition": "Queen",
+    "target_definition": "Sovrana femmina di un regno.",
+    "target_definition_translation": "Female sovereign of a kingdom.",
+    "example": "La regina viveva in un grande castello.",
+    "example_translation": "The queen lived in a big castle.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Principe",
+    "english_definition": "Prince",
+    "target_definition": "Figlio del re o della regina.",
+    "target_definition_translation": "Son of the king or queen.",
+    "example": "Il principe azzurro arriva a cavallo.",
+    "example_translation": "Prince charming arrives on horseback.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Principessa",
+    "english_definition": "Princess",
+    "target_definition": "Figlia del re o della regina.",
+    "target_definition_translation": "Daughter of the king or queen.",
+    "example": "La principessa dormiva nel bosco incantato.",
+    "example_translation": "The princess slept in the enchanted woods.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cavaliere",
+    "english_definition": "Knight",
+    "target_definition": "Guerriero nobile a cavallo.",
+    "target_definition_translation": "Noble warrior on horseback.",
+    "example": "Il cavaliere protesse la regina dal drago.",
+    "example_translation": "The knight protected the queen from the dragon.",
+    "repetitionLevel": 0
+  }
 
 ]
