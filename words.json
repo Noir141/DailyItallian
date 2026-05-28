@@ -79,6 +79,996 @@
     "example_translation": "This flower is beautiful.",
     "repetitionLevel": 0
   },
+{
+    "language": "it",
+    "word": "Aceto",
+    "english_definition": "Vinegar",
+    "target_definition": "Liquido acido usato per condire.",
+    "target_definition_translation": "Acidic liquid used for seasoning.",
+    "example": "Aggiungi olio e aceto all'insalata.",
+    "example_translation": "Add oil and vinegar to the salad.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Aglio",
+    "english_definition": "Garlic",
+    "target_definition": "Pianta dal bulbo con odore forte, usata in cucina.",
+    "target_definition_translation": "Plant with a strongly scented bulb, used in cooking.",
+    "example": "Ho messo uno spicchio d'aglio nel sugo.",
+    "example_translation": "I put a clove of garlic in the sauce.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cipolla",
+    "english_definition": "Onion",
+    "target_definition": "Ortaggio a bulbo che fa lacrimare gli occhi.",
+    "target_definition_translation": "Bulb vegetable that makes your eyes tear.",
+    "example": "Tagliare la cipolla mi fa piangere.",
+    "example_translation": "Cutting the onion makes me cry.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Patata",
+    "english_definition": "Potato",
+    "target_definition": "Tubero commestibile molto comune.",
+    "target_definition_translation": "Very common edible tuber.",
+    "example": "Mi piacciono le patate fritte.",
+    "example_translation": "I like fried potatoes.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pomodoro",
+    "english_definition": "Tomato",
+    "target_definition": "Ortaggio rosso usato spesso per la pasta.",
+    "target_definition_translation": "Red vegetable often used for pasta.",
+    "example": "La pizza ha il pomodoro e la mozzarella.",
+    "example_translation": "Pizza has tomato and mozzarella.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Prosciutto",
+    "english_definition": "Ham",
+    "target_definition": "Salume ricavato dalla coscia del maiale.",
+    "target_definition_translation": "Cured meat obtained from the pig's thigh.",
+    "example": "Vorrei un panino con il prosciutto.",
+    "example_translation": "I would like a sandwich with ham.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Salsiccia",
+    "english_definition": "Sausage",
+    "target_definition": "Carne tritata insaccata in un budello.",
+    "target_definition_translation": "Minced meat stuffed into a casing.",
+    "example": "Cuociamo la salsiccia sul fuoco.",
+    "example_translation": "Let's cook the sausage on the fire.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Miele",
+    "english_definition": "Honey",
+    "target_definition": "Sostanza dolce prodotta dalle api.",
+    "target_definition_translation": "Sweet substance produced by bees.",
+    "example": "Bevo il tè con un cucchiaino di miele.",
+    "example_translation": "I drink tea with a teaspoon of honey.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Marmellata",
+    "english_definition": "Jam",
+    "target_definition": "Conserva dolce a base di frutta e zucchero.",
+    "target_definition_translation": "Sweet preserve based on fruit and sugar.",
+    "example": "Spalmo la marmellata sul pane.",
+    "example_translation": "I spread the jam on the bread.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Limone",
+    "english_definition": "Lemon",
+    "target_definition": "Agrume giallo dal sapore aspro.",
+    "target_definition_translation": "Yellow citrus fruit with a sour taste.",
+    "example": "Metto il limone nell'acqua.",
+    "example_translation": "I put lemon in the water.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Arancia",
+    "english_definition": "Orange (fruit)",
+    "target_definition": "Agrume rotondo di colore arancione.",
+    "target_definition_translation": "Round orange-colored citrus fruit.",
+    "example": "Bevo una spremuta di arancia.",
+    "example_translation": "I drink freshly squeezed orange juice.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Fragola",
+    "english_definition": "Strawberry",
+    "target_definition": "Piccolo frutto rosso con semi all'esterno.",
+    "target_definition_translation": "Small red fruit with seeds on the outside.",
+    "example": "Adoro il gelato alla fragola.",
+    "example_translation": "I adore strawberry ice cream.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pera",
+    "english_definition": "Pear",
+    "target_definition": "Frutto dolce dalla forma allungata.",
+    "target_definition_translation": "Sweet fruit with an elongated shape.",
+    "example": "Ho mangiato una pera succosa.",
+    "example_translation": "I ate a juicy pear.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Banana",
+    "english_definition": "Banana",
+    "target_definition": "Frutto lungo e giallo.",
+    "target_definition_translation": "Long and yellow fruit.",
+    "example": "Le scimmie mangiano le banane.",
+    "example_translation": "Monkeys eat bananas.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Uva",
+    "english_definition": "Grapes",
+    "target_definition": "Frutto a grappoli da cui si fa il vino.",
+    "target_definition_translation": "Clustered fruit from which wine is made.",
+    "example": "Un grappolo d'uva fresca.",
+    "example_translation": "A bunch of fresh grapes.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pollo",
+    "english_definition": "Chicken",
+    "target_definition": "Uccello domestico allevato per carne e uova.",
+    "target_definition_translation": "Domestic bird bred for meat and eggs.",
+    "example": "Stasera mangiamo pollo al forno.",
+    "example_translation": "Tonight we eat baked chicken.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Anatra",
+    "english_definition": "Duck",
+    "target_definition": "Uccello acquatico con il becco piatto.",
+    "target_definition_translation": "Aquatic bird with a flat beak.",
+    "example": "L'anatra nuota nel lago.",
+    "example_translation": "The duck swims in the lake.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Rana",
+    "english_definition": "Frog",
+    "target_definition": "Anfibio verde che salta e gracida.",
+    "target_definition_translation": "Green amphibian that jumps and croaks.",
+    "example": "La rana salta sullo stagno.",
+    "example_translation": "The frog jumps on the pond.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cervo",
+    "english_definition": "Deer",
+    "target_definition": "Animale selvatico con le corna ramificate.",
+    "target_definition_translation": "Wild animal with branched antlers.",
+    "example": "Abbiamo visto un cervo nel bosco.",
+    "example_translation": "We saw a deer in the woods.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Coniglio",
+    "english_definition": "Rabbit",
+    "target_definition": "Piccolo mammifero con orecchie lunghe.",
+    "target_definition_translation": "Small mammal with long ears.",
+    "example": "Il coniglio mangia la carota.",
+    "example_translation": "The rabbit eats the carrot.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Scoiattolo",
+    "english_definition": "Squirrel",
+    "target_definition": "Piccolo roditore che vive sugli alberi.",
+    "target_definition_translation": "Small rodent that lives in trees.",
+    "example": "Lo scoiattolo raccoglie le noci.",
+    "example_translation": "The squirrel collects nuts.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tartaruga",
+    "english_definition": "Turtle",
+    "target_definition": "Rettile con un guscio duro.",
+    "target_definition_translation": "Reptile with a hard shell.",
+    "example": "La tartaruga cammina molto lentamente.",
+    "example_translation": "The turtle walks very slowly.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Aquila",
+    "english_definition": "Eagle",
+    "target_definition": "Grande uccello rapace.",
+    "target_definition_translation": "Large bird of prey.",
+    "example": "L'aquila vola in alto nel cielo.",
+    "example_translation": "The eagle flies high in the sky.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Delfino",
+    "english_definition": "Dolphin",
+    "target_definition": "Mammifero marino molto intelligente.",
+    "target_definition_translation": "Very intelligent marine mammal.",
+    "example": "Il delfino salta fuori dall'acqua.",
+    "example_translation": "The dolphin jumps out of the water.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Balena",
+    "english_definition": "Whale",
+    "target_definition": "Enorme mammifero che vive negli oceani.",
+    "target_definition_translation": "Huge mammal that lives in the oceans.",
+    "example": "La balena è l'animale più grande.",
+    "example_translation": "The whale is the largest animal.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pinguino",
+    "english_definition": "Penguin",
+    "target_definition": "Uccello bianco e nero che non vola e ama il freddo.",
+    "target_definition_translation": "Black and white bird that doesn't fly and loves the cold.",
+    "example": "Il pinguino scivola sul ghiaccio.",
+    "example_translation": "The penguin slides on the ice.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Orecchio",
+    "english_definition": "Ear",
+    "target_definition": "Organo del corpo usato per sentire i suoni.",
+    "target_definition_translation": "Body organ used to hear sounds.",
+    "example": "Mi fa male l'orecchio destro.",
+    "example_translation": "My right ear hurts.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Labbro",
+    "english_definition": "Lip",
+    "target_definition": "Bordo carnoso della bocca.",
+    "target_definition_translation": "Fleshy edge of the mouth.",
+    "example": "Si è morso il labbro.",
+    "example_translation": "He bit his lip.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lingua",
+    "english_definition": "Tongue",
+    "target_definition": "Organo muscolare dentro la bocca.",
+    "target_definition_translation": "Muscular organ inside the mouth.",
+    "example": "Uso la lingua per parlare e gustare.",
+    "example_translation": "I use my tongue to speak and taste.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Collo",
+    "english_definition": "Neck",
+    "target_definition": "Parte del corpo che unisce la testa alle spalle.",
+    "target_definition_translation": "Body part connecting the head to the shoulders.",
+    "example": "Indossa una sciarpa intorno al collo.",
+    "example_translation": "Wear a scarf around your neck.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Petto",
+    "english_definition": "Chest",
+    "target_definition": "Parte anteriore del torace.",
+    "target_definition_translation": "Front part of the thorax.",
+    "example": "Fai un respiro profondo gonfiando il petto.",
+    "example_translation": "Take a deep breath expanding your chest.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pancia",
+    "english_definition": "Belly",
+    "target_definition": "Parte anteriore dell'addome.",
+    "target_definition_translation": "Front part of the abdomen.",
+    "example": "Ho mal di pancia per aver mangiato troppo.",
+    "example_translation": "I have a belly ache from eating too much.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Unghia",
+    "english_definition": "Nail (anatomy)",
+    "target_definition": "Copertura dura all'estremità delle dita.",
+    "target_definition_translation": "Hard covering at the end of fingers/toes.",
+    "example": "Devo tagliare le unghie.",
+    "example_translation": "I need to cut my nails.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Caviglia",
+    "english_definition": "Ankle",
+    "target_definition": "Articolazione che unisce la gamba al piede.",
+    "target_definition_translation": "Joint connecting the leg to the foot.",
+    "example": "Mi sono storto la caviglia correndo.",
+    "example_translation": "I sprained my ankle running.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Osso",
+    "english_definition": "Bone",
+    "target_definition": "Parte dura dello scheletro.",
+    "target_definition_translation": "Hard part of the skeleton.",
+    "example": "Il cane mastica un osso.",
+    "example_translation": "The dog chews a bone.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pelle",
+    "english_definition": "Skin",
+    "target_definition": "Tessuto esterno che ricopre il corpo.",
+    "target_definition_translation": "Outer tissue covering the body.",
+    "example": "Ha la pelle molto morbida.",
+    "example_translation": "She has very soft skin.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sudore",
+    "english_definition": "Sweat",
+    "target_definition": "Liquido emesso dalla pelle quando fa caldo.",
+    "target_definition_translation": "Liquid emitted by the skin when it is hot.",
+    "example": "Asciugati il sudore dalla fronte.",
+    "example_translation": "Wipe the sweat from your forehead.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lacrima",
+    "english_definition": "Tear",
+    "target_definition": "Goccia di liquido che esce dall'occhio.",
+    "target_definition_translation": "Drop of liquid coming out of the eye.",
+    "example": "Una lacrima è scesa sul suo viso.",
+    "example_translation": "A tear fell on her face.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Largo",
+    "english_definition": "Wide",
+    "target_definition": "Di grande estensione da lato a lato.",
+    "target_definition_translation": "Of great extent from side to side.",
+    "example": "Il fiume è molto largo qui.",
+    "example_translation": "The river is very wide here.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Stretto",
+    "english_definition": "Narrow",
+    "target_definition": "Di poca larghezza.",
+    "target_definition_translation": "Of little width.",
+    "example": "La strada è troppo stretta per l'auto.",
+    "example_translation": "The road is too narrow for the car.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Profondo",
+    "english_definition": "Deep",
+    "target_definition": "Che va molto in basso.",
+    "target_definition_translation": "Going very low.",
+    "example": "L'oceano è molto profondo.",
+    "example_translation": "The ocean is very deep.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Superficiale",
+    "english_definition": "Shallow",
+    "target_definition": "Poco profondo, in superficie.",
+    "target_definition_translation": "Not deep, on the surface.",
+    "example": "L'acqua qui è superficiale.",
+    "example_translation": "The water here is shallow.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Spesso",
+    "english_definition": "Thick",
+    "target_definition": "Di grande spessore.",
+    "target_definition_translation": "Of great thickness.",
+    "example": "Questo muro è molto spesso.",
+    "example_translation": "This wall is very thick.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sottile",
+    "english_definition": "Thin",
+    "target_definition": "Di poco spessore o magro.",
+    "target_definition_translation": "Of little thickness or skinny.",
+    "example": "Taglia la carne a fette sottili.",
+    "example_translation": "Cut the meat into thin slices.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Liscio",
+    "english_definition": "Smooth",
+    "target_definition": "Uniforme al tatto, senza asperità.",
+    "target_definition_translation": "Uniform to the touch, without roughness.",
+    "example": "Il tavolo di vetro è liscio.",
+    "example_translation": "The glass table is smooth.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ruvido",
+    "english_definition": "Rough",
+    "target_definition": "Superficie irregolare al tatto.",
+    "target_definition_translation": "Surface irregular to the touch.",
+    "example": "Questa pietra è molto ruvida.",
+    "example_translation": "This stone is very rough.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Caro",
+    "english_definition": "Expensive",
+    "target_definition": "Che costa molti soldi.",
+    "target_definition_translation": "Costing a lot of money.",
+    "example": "Questo orologio è troppo caro.",
+    "example_translation": "This watch is too expensive.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Economico",
+    "english_definition": "Cheap",
+    "target_definition": "A basso prezzo.",
+    "target_definition_translation": "At a low price.",
+    "example": "Ho comprato un vestito economico.",
+    "example_translation": "I bought a cheap dress.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sicuro",
+    "english_definition": "Safe",
+    "target_definition": "Privo di pericolo.",
+    "target_definition_translation": "Free from danger.",
+    "example": "Questo posto è sicuro per i bambini.",
+    "example_translation": "This place is safe for children.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pericoloso",
+    "english_definition": "Dangerous",
+    "target_definition": "Che può causare danni o rischi.",
+    "target_definition_translation": "That can cause harm or risks.",
+    "example": "È pericoloso guidare velocemente.",
+    "example_translation": "It is dangerous to drive fast.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Utile",
+    "english_definition": "Useful",
+    "target_definition": "Che serve a uno scopo.",
+    "target_definition_translation": "Serving a purpose.",
+    "example": "Il coltello è uno strumento utile.",
+    "example_translation": "The knife is a useful tool.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Inutile",
+    "english_definition": "Useless",
+    "target_definition": "Che non serve a niente.",
+    "target_definition_translation": "Serving no purpose.",
+    "example": "È inutile piangere ora.",
+    "example_translation": "It is useless to cry now.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Giusto",
+    "english_definition": "Right (Correct)",
+    "target_definition": "Esatto o corretto.",
+    "target_definition_translation": "Exact or correct.",
+    "example": "Hai trovato la risposta giusta.",
+    "example_translation": "You found the right answer.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sbagliato",
+    "english_definition": "Wrong",
+    "target_definition": "Non corretto, errato.",
+    "target_definition_translation": "Not correct, in error.",
+    "example": "Questo numero di telefono è sbagliato.",
+    "example_translation": "This phone number is wrong.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Vero",
+    "english_definition": "True",
+    "target_definition": "Conforme alla realtà.",
+    "target_definition_translation": "Conforming to reality.",
+    "example": "Quello che dico è vero.",
+    "example_translation": "What I say is true.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Falso",
+    "english_definition": "False",
+    "target_definition": "Non vero, inventato.",
+    "target_definition_translation": "Not true, invented.",
+    "example": "Questa è una notizia falsa.",
+    "example_translation": "This is a false news story.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cominciare",
+    "english_definition": "Begin",
+    "target_definition": "Dare inizio a qualcosa.",
+    "target_definition_translation": "To start something.",
+    "example": "Dobbiamo cominciare il progetto.",
+    "example_translation": "We must begin the project.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Finire",
+    "english_definition": "Finish",
+    "target_definition": "Portare a termine.",
+    "target_definition_translation": "To bring to an end.",
+    "example": "Quando finisci di lavorare?",
+    "example_translation": "When do you finish working?",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Svegliarsi",
+    "english_definition": "Wake up",
+    "target_definition": "Uscire dal sonno.",
+    "target_definition_translation": "To exit from sleep.",
+    "example": "Mi piace svegliarsi presto.",
+    "example_translation": "I like to wake up early.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Alzarsi",
+    "english_definition": "Get up",
+    "target_definition": "Mettersi in piedi dal letto o da una sedia.",
+    "target_definition_translation": "To stand up from bed or a chair.",
+    "example": "È ora di alzarsi.",
+    "example_translation": "It is time to get up.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sedersi",
+    "english_definition": "Sit down",
+    "target_definition": "Prendere posto su una sedia.",
+    "target_definition_translation": "To take a seat on a chair.",
+    "example": "Puoi sederti su questa sedia.",
+    "example_translation": "You can sit down on this chair.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lavarsi",
+    "english_definition": "Wash oneself",
+    "target_definition": "Pulire il proprio corpo.",
+    "target_definition_translation": "To clean one's body.",
+    "example": "Devo lavarmi le mani.",
+    "example_translation": "I must wash my hands.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Vestirsi",
+    "english_definition": "Get dressed",
+    "target_definition": "Mettersi i vestiti.",
+    "target_definition_translation": "To put on clothes.",
+    "example": "Vado a vestirsi per la festa.",
+    "example_translation": "I go get dressed for the party.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sorridere",
+    "english_definition": "Smile",
+    "target_definition": "Mostrare felicità con la bocca.",
+    "target_definition_translation": "To show happiness with the mouth.",
+    "example": "La bambina non smette di sorridere.",
+    "example_translation": "The girl doesn't stop smiling.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sospirare",
+    "english_definition": "Sigh",
+    "target_definition": "Emettere aria per noia, tristezza o sollievo.",
+    "target_definition_translation": "To emit air out of boredom, sadness, or relief.",
+    "example": "Lo studente iniziò a sospirare durante il test.",
+    "example_translation": "The student began to sigh during the test.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Baciare",
+    "english_definition": "Kiss",
+    "target_definition": "Toccare con le labbra per affetto o amore.",
+    "target_definition_translation": "To touch with lips for affection or love.",
+    "example": "La madre vuole baciare il bambino.",
+    "example_translation": "The mother wants to kiss the baby.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Abbracciare",
+    "english_definition": "Hug",
+    "target_definition": "Stringere qualcuno tra le braccia.",
+    "target_definition_translation": "To squeeze someone in your arms.",
+    "example": "Ho bisogno di abbracciare un amico.",
+    "example_translation": "I need to hug a friend.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Nascere",
+    "english_definition": "Be born",
+    "target_definition": "Venire al mondo.",
+    "target_definition_translation": "To come into the world.",
+    "example": "Il bambino è appena nato.",
+    "example_translation": "The baby was just born.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Morire",
+    "english_definition": "Die",
+    "target_definition": "Cessare di vivere.",
+    "target_definition_translation": "To cease to live.",
+    "example": "Nessuno vuole morire giovane.",
+    "example_translation": "Nobody wants to die young.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Crescere",
+    "english_definition": "Grow",
+    "target_definition": "Diventare più grande e maturo.",
+    "target_definition_translation": "To become bigger and more mature.",
+    "example": "Le piante hanno bisogno di acqua per crescere.",
+    "example_translation": "Plants need water to grow.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Quartiere",
+    "english_definition": "Neighborhood",
+    "target_definition": "Zona o parte di una città.",
+    "target_definition_translation": "Zone or part of a city.",
+    "example": "Vivo in un quartiere tranquillo.",
+    "example_translation": "I live in a quiet neighborhood.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Edificio",
+    "english_definition": "Building",
+    "target_definition": "Costruzione usata per abitazione o uffici.",
+    "target_definition_translation": "Construction used for housing or offices.",
+    "example": "L'edificio è molto alto.",
+    "example_translation": "The building is very tall.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Incrocio",
+    "english_definition": "Intersection",
+    "target_definition": "Punto in cui due strade si incontrano.",
+    "target_definition_translation": "Point where two roads meet.",
+    "example": "Gira a destra all'incrocio.",
+    "example_translation": "Turn right at the intersection.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Semaforo",
+    "english_definition": "Traffic light",
+    "target_definition": "Segnale luminoso per regolare il traffico.",
+    "target_definition_translation": "Luminous signal to regulate traffic.",
+    "example": "Fermati quando il semaforo è rosso.",
+    "example_translation": "Stop when the traffic light is red.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Marciapiede",
+    "english_definition": "Sidewalk",
+    "target_definition": "Parte della strada per i pedoni.",
+    "target_definition_translation": "Part of the road for pedestrians.",
+    "example": "Cammina sul marciapiede, non per strada.",
+    "example_translation": "Walk on the sidewalk, not in the street.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lampione",
+    "english_definition": "Streetlight",
+    "target_definition": "Luce pubblica usata per illuminare la strada.",
+    "target_definition_translation": "Public light used to illuminate the street.",
+    "example": "Il lampione illumina la piazza di notte.",
+    "example_translation": "The streetlight illuminates the square at night.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Farmacia",
+    "english_definition": "Pharmacy",
+    "target_definition": "Negozio dove si comprano le medicine.",
+    "target_definition_translation": "Shop where medicines are bought.",
+    "example": "Vado in farmacia a prendere un medicinale.",
+    "example_translation": "I go to the pharmacy to get a medicine.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Biblioteca",
+    "english_definition": "Library",
+    "target_definition": "Luogo dove si leggono e prestano libri.",
+    "target_definition_translation": "Place where books are read and borrowed.",
+    "example": "Sto studiando in biblioteca.",
+    "example_translation": "I am studying in the library.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Posta",
+    "english_definition": "Post office",
+    "target_definition": "Ufficio per spedire lettere e pacchi.",
+    "target_definition_translation": "Office to send letters and packages.",
+    "example": "Devo andare alla posta per spedire questo.",
+    "example_translation": "I need to go to the post office to send this.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Schermo",
+    "english_definition": "Screen",
+    "target_definition": "Superficie luminosa per vedere immagini digitali.",
+    "target_definition_translation": "Luminous surface to see digital images.",
+    "example": "Guarda lo schermo del computer.",
+    "example_translation": "Look at the computer screen.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tastiera",
+    "english_definition": "Keyboard",
+    "target_definition": "Insieme di tasti per scrivere al computer.",
+    "target_definition_translation": "Set of keys to write on the computer.",
+    "example": "Sto scrivendo sulla tastiera.",
+    "example_translation": "I am typing on the keyboard.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cavo",
+    "english_definition": "Cable",
+    "target_definition": "Filo conduttore per la corrente elettrica.",
+    "target_definition_translation": "Conductive wire for electrical current.",
+    "example": "Ho bisogno di un cavo per caricare il telefono.",
+    "example_translation": "I need a cable to charge the phone.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Batteria",
+    "english_definition": "Battery",
+    "target_definition": "Dispositivo che fornisce energia elettrica.",
+    "target_definition_translation": "Device that provides electrical energy.",
+    "example": "La batteria del mio telefono è scarica.",
+    "example_translation": "My phone's battery is empty.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Spina",
+    "english_definition": "Plug",
+    "target_definition": "Connettore elettrico da inserire nel muro.",
+    "target_definition_translation": "Electrical connector to insert in the wall.",
+    "example": "Inserisci la spina nella presa.",
+    "example_translation": "Insert the plug in the socket.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Presa",
+    "english_definition": "Socket",
+    "target_definition": "Attacco elettrico nel muro.",
+    "target_definition_translation": "Electrical connection in the wall.",
+    "example": "La presa elettrica è vicino al letto.",
+    "example_translation": "The electrical socket is near the bed.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cuffie",
+    "english_definition": "Headphones",
+    "target_definition": "Dispositivo per ascoltare musica senza disturbare gli altri.",
+    "target_definition_translation": "Device to listen to music without disturbing others.",
+    "example": "Uso le cuffie in metropolitana.",
+    "example_translation": "I use headphones in the subway.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Telecamera",
+    "english_definition": "Camera (video)",
+    "target_definition": "Dispositivo per registrare video.",
+    "target_definition_translation": "Device for recording video.",
+    "example": "Sorridi alla telecamera.",
+    "example_translation": "Smile at the camera.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Fotografia",
+    "english_definition": "Photograph",
+    "target_definition": "Immagine catturata da una macchina fotografica.",
+    "target_definition_translation": "Image captured by a camera.",
+    "example": "Questa fotografia è bellissima.",
+    "example_translation": "This photograph is beautiful.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Forbici",
+    "english_definition": "Scissors",
+    "target_definition": "Strumento per tagliare carta o stoffa.",
+    "target_definition_translation": "Tool to cut paper or cloth.",
+    "example": "Usa le forbici per tagliare il filo.",
+    "example_translation": "Use the scissors to cut the thread.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Martello",
+    "english_definition": "Hammer",
+    "target_definition": "Attrezzo pesante usato per battere i chiodi.",
+    "target_definition_translation": "Heavy tool used to beat nails.",
+    "example": "Passami il martello, per favore.",
+    "example_translation": "Pass me the hammer, please.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cacciavite",
+    "english_definition": "Screwdriver",
+    "target_definition": "Attrezzo per avvitare viti.",
+    "target_definition_translation": "Tool for turning screws.",
+    "example": "Usa il cacciavite per montare il mobile.",
+    "example_translation": "Use the screwdriver to assemble the furniture.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ago",
+    "english_definition": "Needle",
+    "target_definition": "Sottile bastoncino di metallo per cucire.",
+    "target_definition_translation": "Thin metal stick for sewing.",
+    "example": "Devo infilare il filo nell'ago.",
+    "example_translation": "I must thread the thread in the needle.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Filo",
+    "english_definition": "Thread",
+    "target_definition": "Corda sottile usata per cucire tessuti.",
+    "target_definition_translation": "Thin cord used to sew fabrics.",
+    "example": "Ho bisogno di un filo nero per rammendare i pantaloni.",
+    "example_translation": "I need a black thread to mend the pants.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Dipingere",
+    "english_definition": "Paint",
+    "target_definition": "Creare un quadro con i colori.",
+    "target_definition_translation": "To create a picture with colors.",
+    "example": "Amo dipingere paesaggi.",
+    "example_translation": "I love to paint landscapes.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Disegnare",
+    "english_definition": "Draw",
+    "target_definition": "Tracciare figure con una matita o penna.",
+    "target_definition_translation": "To trace figures with a pencil or pen.",
+    "example": "Il bambino ama disegnare gli animali.",
+    "example_translation": "The child loves to draw animals.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Incontrare",
+    "english_definition": "Meet",
+    "target_definition": "Vedere qualcuno di persona.",
+    "target_definition_translation": "To see someone in person.",
+    "example": "Devo incontrare un cliente importante oggi.",
+    "example_translation": "I have to meet an important client today.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Scusarsi",
+    "english_definition": "Apologize",
+    "target_definition": "Chiedere perdono per un errore.",
+    "target_definition_translation": "To ask for forgiveness for a mistake.",
+    "example": "Dovresti scusarti per il tuo comportamento.",
+    "example_translation": "You should apologize for your behavior.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Perdonare",
+    "english_definition": "Forgive",
+    "target_definition": "Smettere di essere arrabbiati con qualcuno.",
+    "target_definition_translation": "To stop being angry with someone.",
+    "example": "Ho deciso di perdonare il suo errore.",
+    "example_translation": "I decided to forgive his mistake.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ringraziare",
+    "english_definition": "Thank",
+    "target_definition": "Esprimere gratitudine.",
+    "target_definition_translation": "To express gratitude.",
+    "example": "Voglio ringraziare tutti per il regalo.",
+    "example_translation": "I want to thank everyone for the gift.",
+    "repetitionLevel": 0
+  },
   {
     "language": "it",
     "word": "Strada",
@@ -3990,5 +4980,1006 @@
     "example": "Taglia la torta a metà.",
     "example_translation": "Cut the cake in half.",
     "repetitionLevel": 0
-  }
+  },
+{
+    "language": "it",
+    "word": "Insegnante",
+    "english_definition": "Teacher",
+    "target_definition": "Chi insegna una materia in una scuola.",
+    "target_definition_translation": "One who teaches a subject in a school.",
+    "example": "La mia insegnante di italiano è molto brava.",
+    "example_translation": "My Italian teacher is very good.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Studente",
+    "english_definition": "Student",
+    "target_definition": "Chi frequenta una scuola o università.",
+    "target_definition_translation": "One who attends a school or university.",
+    "example": "Lo studente legge il libro.",
+    "example_translation": "The student reads the book.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Infermiere",
+    "english_definition": "Nurse",
+    "target_definition": "Chi assiste i malati in ospedale.",
+    "target_definition_translation": "One who assists the sick in the hospital.",
+    "example": "L'infermiere mi ha dato la medicina.",
+    "example_translation": "The nurse gave me the medicine.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Avvocato",
+    "english_definition": "Lawyer",
+    "target_definition": "Chi difende una persona in tribunale.",
+    "target_definition_translation": "One who defends a person in court.",
+    "example": "Ho bisogno di un buon avvocato.",
+    "example_translation": "I need a good lawyer.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Giudice",
+    "english_definition": "Judge",
+    "target_definition": "Chi amministra la giustizia.",
+    "target_definition_translation": "One who administers justice.",
+    "example": "Il giudice ha preso una decisione.",
+    "example_translation": "The judge made a decision.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cuoco",
+    "english_definition": "Cook",
+    "target_definition": "Persona che prepara i cibi per mestiere.",
+    "target_definition_translation": "Person who prepares food as a profession.",
+    "example": "Il cuoco prepara un ottimo piatto.",
+    "example_translation": "The cook prepares an excellent dish.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cameriere",
+    "english_definition": "Waiter",
+    "target_definition": "Chi serve i clienti ai tavoli.",
+    "target_definition_translation": "One who serves customers at tables.",
+    "example": "Il cameriere porta il menu.",
+    "example_translation": "The waiter brings the menu.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Operaio",
+    "english_definition": "Worker",
+    "target_definition": "Lavoratore manuale in una fabbrica.",
+    "target_definition_translation": "Manual worker in a factory.",
+    "example": "L'operaio inizia il turno presto.",
+    "example_translation": "The worker starts the shift early.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Contadino",
+    "english_definition": "Farmer",
+    "target_definition": "Chi coltiva la terra.",
+    "target_definition_translation": "One who cultivates the land.",
+    "example": "Il contadino raccoglie le mele.",
+    "example_translation": "The farmer harvests the apples.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Poliziotto",
+    "english_definition": "Police officer",
+    "target_definition": "Agente delle forze dell'ordine.",
+    "target_definition_translation": "Law enforcement agent.",
+    "example": "Il poliziotto ferma il traffico.",
+    "example_translation": "The police officer stops the traffic.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Macchina",
+    "english_definition": "Car",
+    "target_definition": "Veicolo a motore per trasporto passeggeri.",
+    "target_definition_translation": "Motor vehicle for passenger transport.",
+    "example": "Ho comprato una macchina nuova.",
+    "example_translation": "I bought a new car.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Treno",
+    "english_definition": "Train",
+    "target_definition": "Mezzo di trasporto composto da vagoni su rotaie.",
+    "target_definition_translation": "Means of transport composed of wagons on rails.",
+    "example": "Il treno parte dal binario due.",
+    "example_translation": "The train leaves from platform two.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Aereo",
+    "english_definition": "Airplane",
+    "target_definition": "Veicolo capace di volare nel cielo.",
+    "target_definition_translation": "Vehicle capable of flying in the sky.",
+    "example": "Prendo l'aereo per andare a Roma.",
+    "example_translation": "I take the airplane to go to Rome.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Autobus",
+    "english_definition": "Bus",
+    "target_definition": "Grande veicolo per il trasporto pubblico.",
+    "target_definition_translation": "Large vehicle for public transport.",
+    "example": "Aspetto l'autobus alla fermata.",
+    "example_translation": "I wait for the bus at the stop.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Metropolitana",
+    "english_definition": "Subway",
+    "target_definition": "Treno sotterraneo per il trasporto cittadino.",
+    "target_definition_translation": "Underground train for city transport.",
+    "example": "La metropolitana è molto veloce.",
+    "example_translation": "The subway is very fast.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Moto",
+    "english_definition": "Motorcycle",
+    "target_definition": "Veicolo a due ruote con motore.",
+    "target_definition_translation": "Two-wheeled vehicle with a motor.",
+    "example": "Metti il casco quando guidi la moto.",
+    "example_translation": "Put on your helmet when you ride the motorcycle.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Camion",
+    "english_definition": "Truck",
+    "target_definition": "Grande veicolo per il trasporto di merci.",
+    "target_definition_translation": "Large vehicle for transporting goods.",
+    "example": "Il camion è pieno di cibo.",
+    "example_translation": "The truck is full of food.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Traghetto",
+    "english_definition": "Ferry",
+    "target_definition": "Nave usata per trasportare veicoli e persone.",
+    "target_definition_translation": "Ship used to transport vehicles and people.",
+    "example": "Prendiamo il traghetto per l'isola.",
+    "example_translation": "Let's take the ferry to the island.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tram",
+    "english_definition": "Tram",
+    "target_definition": "Veicolo per trasporto pubblico su rotaie in città.",
+    "target_definition_translation": "Vehicle for public transport on rails in the city.",
+    "example": "Il tram passa per il centro.",
+    "example_translation": "The tram goes through the center.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Elicottero",
+    "english_definition": "Helicopter",
+    "target_definition": "Velivolo che si solleva grazie a grandi eliche.",
+    "target_definition_translation": "Aircraft that lifts off thanks to large propellers.",
+    "example": "L'elicottero vola sopra la montagna.",
+    "example_translation": "The helicopter flies over the mountain.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pace",
+    "english_definition": "Peace",
+    "target_definition": "Stato di tranquillità e assenza di conflitti.",
+    "target_definition_translation": "State of tranquility and absence of conflicts.",
+    "example": "Tutti desiderano la pace nel mondo.",
+    "example_translation": "Everyone desires peace in the world.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Guerra",
+    "english_definition": "War",
+    "target_definition": "Conflitto armato tra nazioni.",
+    "target_definition_translation": "Armed conflict between nations.",
+    "example": "La guerra porta solo distruzione.",
+    "example_translation": "War brings only destruction.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Verità",
+    "english_definition": "Truth",
+    "target_definition": "Ciò che è reale e non falso.",
+    "target_definition_translation": "That which is real and not false.",
+    "example": "Devi dire sempre la verità.",
+    "example_translation": "You must always tell the truth.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Bugia",
+    "english_definition": "Lie",
+    "target_definition": "Affermazione contraria alla verità.",
+    "target_definition_translation": "Statement contrary to the truth.",
+    "example": "Scoprirò se hai detto una bugia.",
+    "example_translation": "I will find out if you told a lie.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Paura",
+    "english_definition": "Fear",
+    "target_definition": "Sentimento di allarme per un pericolo.",
+    "target_definition_translation": "Feeling of alarm for a danger.",
+    "example": "Ho paura dei ragni.",
+    "example_translation": "I have a fear of spiders.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Memoria",
+    "english_definition": "Memory",
+    "target_definition": "Capacità di ricordare le cose passate.",
+    "target_definition_translation": "Ability to remember past things.",
+    "example": "Ha una memoria fotografica.",
+    "example_translation": "He has a photographic memory.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sogno",
+    "english_definition": "Dream",
+    "target_definition": "Immagini viste durante il sonno o desiderio.",
+    "target_definition_translation": "Images seen during sleep or desire.",
+    "example": "Ho fatto un bellissimo sogno.",
+    "example_translation": "I had a beautiful dream.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Realtà",
+    "english_definition": "Reality",
+    "target_definition": "Tutto ciò che esiste effettivamente.",
+    "target_definition_translation": "Everything that actually exists.",
+    "example": "Dobbiamo affrontare la realtà.",
+    "example_translation": "We must face reality.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Fantasia",
+    "english_definition": "Fantasy",
+    "target_definition": "Capacità della mente di creare immagini.",
+    "target_definition_translation": "Ability of the mind to create images.",
+    "example": "Questo libro è pura fantasia.",
+    "example_translation": "This book is pure fantasy.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Dolore",
+    "english_definition": "Pain",
+    "target_definition": "Sofferenza fisica o mentale.",
+    "target_definition_translation": "Physical or mental suffering.",
+    "example": "Sento un forte dolore al braccio.",
+    "example_translation": "I feel a strong pain in my arm.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Maglietta",
+    "english_definition": "T-shirt",
+    "target_definition": "Indumento leggero, solitamente a maniche corte.",
+    "target_definition_translation": "Light garment, usually short-sleeved.",
+    "example": "Indosso una maglietta di cotone.",
+    "example_translation": "I wear a cotton t-shirt.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Giacca",
+    "english_definition": "Jacket",
+    "target_definition": "Indumento aperto sul davanti, con maniche.",
+    "target_definition_translation": "Garment open at the front, with sleeves.",
+    "example": "Metti la giacca, fa freddo.",
+    "example_translation": "Put on your jacket, it's cold.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Calzini",
+    "english_definition": "Socks",
+    "target_definition": "Indumenti di tessuto che coprono i piedi.",
+    "target_definition_translation": "Fabric garments that cover the feet.",
+    "example": "Ho perso un paio di calzini.",
+    "example_translation": "I lost a pair of socks.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Mutande",
+    "english_definition": "Underwear",
+    "target_definition": "Capo di biancheria intima.",
+    "target_definition_translation": "Piece of intimate apparel.",
+    "example": "Ho comprato delle mutande nuove.",
+    "example_translation": "I bought some new underwear.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Guanti",
+    "english_definition": "Gloves",
+    "target_definition": "Accessori che coprono e proteggono le mani.",
+    "target_definition_translation": "Accessories that cover and protect the hands.",
+    "example": "Fa freddo, metto i guanti.",
+    "example_translation": "It is cold, I put on my gloves.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sciarpa",
+    "english_definition": "Scarf",
+    "target_definition": "Striscia di tessuto usata per coprire il collo.",
+    "target_definition_translation": "Strip of fabric used to cover the neck.",
+    "example": "La tua sciarpa è molto calda.",
+    "example_translation": "Your scarf is very warm.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cintura",
+    "english_definition": "Belt",
+    "target_definition": "Striscia usata per stringere i pantaloni in vita.",
+    "target_definition_translation": "Strip used to tighten pants at the waist.",
+    "example": "Ho bisogno di una cintura di pelle.",
+    "example_translation": "I need a leather belt.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cravatta",
+    "english_definition": "Tie",
+    "target_definition": "Accessorio elegante da uomo che si annoda al collo.",
+    "target_definition_translation": "Elegant men's accessory tied around the neck.",
+    "example": "Indossa una cravatta per il matrimonio.",
+    "example_translation": "He wears a tie for the wedding.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Stivali",
+    "english_definition": "Boots",
+    "target_definition": "Scarpe alte che coprono la caviglia o il polpaccio.",
+    "target_definition_translation": "High shoes that cover the ankle or calf.",
+    "example": "Uso gli stivali quando piove.",
+    "example_translation": "I use boots when it rains.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ombrello",
+    "english_definition": "Umbrella",
+    "target_definition": "Oggetto portatile per ripararsi dalla pioggia.",
+    "target_definition_translation": "Portable object for sheltering from the rain.",
+    "example": "Non dimenticare l'ombrello a casa.",
+    "example_translation": "Don't forget your umbrella at home.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lampada",
+    "english_definition": "Lamp",
+    "target_definition": "Oggetto che fornisce luce artificiale.",
+    "target_definition_translation": "Object that provides artificial light.",
+    "example": "Accendi la lampada da tavolo.",
+    "example_translation": "Turn on the table lamp.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Quadro",
+    "english_definition": "Painting",
+    "target_definition": "Opera d'arte dipinta su tela.",
+    "target_definition_translation": "Artwork painted on canvas.",
+    "example": "Questo quadro è molto famoso.",
+    "example_translation": "This painting is very famous.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cuscino",
+    "english_definition": "Cushion",
+    "target_definition": "Sacco di stoffa imbottito per appoggiare la testa.",
+    "target_definition_translation": "Stuffed fabric sack to rest the head.",
+    "example": "Il cuscino del divano è morbido.",
+    "example_translation": "The sofa cushion is soft.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Coperta",
+    "english_definition": "Blanket",
+    "target_definition": "Tessuto pesante per coprirsi quando si dorme.",
+    "target_definition_translation": "Heavy fabric to cover oneself when sleeping.",
+    "example": "Prendo un'altra coperta perché ho freddo.",
+    "example_translation": "I'm taking another blanket because I'm cold.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lenzuolo",
+    "english_definition": "Bedsheet",
+    "target_definition": "Panno di cotone per coprire il materasso.",
+    "target_definition_translation": "Cotton cloth to cover the mattress.",
+    "example": "Devo cambiare il lenzuolo del letto.",
+    "example_translation": "I have to change the bedsheet.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ascensore",
+    "english_definition": "Elevator",
+    "target_definition": "Impianto per salire e scendere i piani.",
+    "target_definition_translation": "System to go up and down floors.",
+    "example": "Chiamo l'ascensore per salire.",
+    "example_translation": "I call the elevator to go up.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Scala",
+    "english_definition": "Stair",
+    "target_definition": "Struttura a gradini per salire o scendere.",
+    "target_definition_translation": "Stepped structure to go up or down.",
+    "example": "Scendo per la scala.",
+    "example_translation": "I go down the stair.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Soffitto",
+    "english_definition": "Ceiling",
+    "target_definition": "Superficie interna che chiude in alto una stanza.",
+    "target_definition_translation": "Internal surface that closes a room at the top.",
+    "example": "Il ragno è sul soffitto.",
+    "example_translation": "The spider is on the ceiling.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cantina",
+    "english_definition": "Cellar",
+    "target_definition": "Stanza sotterranea della casa, spesso per il vino.",
+    "target_definition_translation": "Underground room of the house, often for wine.",
+    "example": "Conservo il vino in cantina.",
+    "example_translation": "I store wine in the cellar.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Soffitta",
+    "english_definition": "Attic",
+    "target_definition": "Stanza situata sotto il tetto della casa.",
+    "target_definition_translation": "Room located under the roof of the house.",
+    "example": "Ci sono vecchi giochi in soffitta.",
+    "example_translation": "There are old toys in the attic.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Temporale",
+    "english_definition": "Storm",
+    "target_definition": "Perturbazione con pioggia intensa, tuoni e fulmini.",
+    "target_definition_translation": "Disturbance with intense rain, thunder, and lightning.",
+    "example": "È in arrivo un forte temporale.",
+    "example_translation": "A strong storm is coming.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ghiaccio",
+    "english_definition": "Ice",
+    "target_definition": "Acqua passata allo stato solido per il freddo.",
+    "target_definition_translation": "Water passed to a solid state due to cold.",
+    "example": "Attenzione al ghiaccio sulla strada.",
+    "example_translation": "Watch out for the ice on the road.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Fulmine",
+    "english_definition": "Lightning",
+    "target_definition": "Scarica elettrica molto luminosa nell'atmosfera.",
+    "target_definition_translation": "Very bright electrical discharge in the atmosphere.",
+    "example": "Ho visto un fulmine in cielo.",
+    "example_translation": "I saw a lightning in the sky.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tuono",
+    "english_definition": "Thunder",
+    "target_definition": "Forte rumore provocato da un fulmine.",
+    "target_definition_translation": "Loud noise caused by lightning.",
+    "example": "Il tuono mi ha spaventato.",
+    "example_translation": "The thunder scared me.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Terremoto",
+    "english_definition": "Earthquake",
+    "target_definition": "Movimento improvviso della crosta terrestre.",
+    "target_definition_translation": "Sudden movement of the earth's crust.",
+    "example": "Abbiamo sentito un piccolo terremoto.",
+    "example_translation": "We felt a small earthquake.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tramonto",
+    "english_definition": "Sunset",
+    "target_definition": "Il momento in cui il sole scompare all'orizzonte.",
+    "target_definition_translation": "The moment the sun disappears on the horizon.",
+    "example": "Il tramonto sul mare è rosso.",
+    "example_translation": "The sunset over the sea is red.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Alba",
+    "english_definition": "Sunrise",
+    "target_definition": "La prima luce del giorno prima che spunti il sole.",
+    "target_definition_translation": "The first light of day before the sun rises.",
+    "example": "Ci svegliamo all'alba.",
+    "example_translation": "We wake up at sunrise.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Nebbia",
+    "english_definition": "Fog",
+    "target_definition": "Nuvola bassa che tocca la superficie terrestre.",
+    "target_definition_translation": "Low cloud touching the earth's surface.",
+    "example": "Con questa nebbia non vedo niente.",
+    "example_translation": "With this fog I can't see anything.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Umidità",
+    "english_definition": "Humidity",
+    "target_definition": "Quantità di vapore acqueo presente nell'aria.",
+    "target_definition_translation": "Quantity of water vapor present in the air.",
+    "example": "Oggi c'è molta umidità.",
+    "example_translation": "Today there is a lot of humidity.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Gelo",
+    "english_definition": "Frost",
+    "target_definition": "Freddo intenso che fa congelare l'acqua.",
+    "target_definition_translation": "Intense cold that makes water freeze.",
+    "example": "Il gelo ha rovinato le piante.",
+    "example_translation": "The frost ruined the plants.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Padre",
+    "english_definition": "Father",
+    "target_definition": "Genitore di sesso maschile.",
+    "target_definition_translation": "Male parent.",
+    "example": "Mio padre lavora in banca.",
+    "example_translation": "My father works in a bank.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Madre",
+    "english_definition": "Mother",
+    "target_definition": "Genitore di sesso femminile.",
+    "target_definition_translation": "Female parent.",
+    "example": "La madre cura il bambino.",
+    "example_translation": "The mother cares for the child.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Figlio",
+    "english_definition": "Son",
+    "target_definition": "Discendente diretto di sesso maschile.",
+    "target_definition_translation": "Direct male descendant.",
+    "example": "Lui è il mio primo figlio.",
+    "example_translation": "He is my first son.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Figlia",
+    "english_definition": "Daughter",
+    "target_definition": "Discendente diretta di sesso femminile.",
+    "target_definition_translation": "Direct female descendant.",
+    "example": "Mia figlia ha dieci anni.",
+    "example_translation": "My daughter is ten years old.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Fratello",
+    "english_definition": "Brother",
+    "target_definition": "Persona di sesso maschile nata dagli stessi genitori.",
+    "target_definition_translation": "Male person born from the same parents.",
+    "example": "Mio fratello è più grande di me.",
+    "example_translation": "My brother is older than me.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sorella",
+    "english_definition": "Sister",
+    "target_definition": "Persona di sesso femminile nata dagli stessi genitori.",
+    "target_definition_translation": "Female person born from the same parents.",
+    "example": "Ho una sorella minore.",
+    "example_translation": "I have a younger sister.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Nonno",
+    "english_definition": "Grandfather",
+    "target_definition": "Il padre della madre o del padre.",
+    "target_definition_translation": "The father of the mother or father.",
+    "example": "Mio nonno racconta molte storie.",
+    "example_translation": "My grandfather tells many stories.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Nonna",
+    "english_definition": "Grandmother",
+    "target_definition": "La madre della madre o del padre.",
+    "target_definition_translation": "The mother of the mother or father.",
+    "example": "La nonna cucina benissimo.",
+    "example_translation": "Grandmother cooks very well.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Zio",
+    "english_definition": "Uncle",
+    "target_definition": "Il fratello della madre o del padre.",
+    "target_definition_translation": "The brother of the mother or father.",
+    "example": "Mio zio vive all'estero.",
+    "example_translation": "My uncle lives abroad.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Zia",
+    "english_definition": "Aunt",
+    "target_definition": "La sorella della madre o del padre.",
+    "target_definition_translation": "The sister of the mother or father.",
+    "example": "Zia Anna mi ha regalato un libro.",
+    "example_translation": "Aunt Anna gifted me a book.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Rispondere",
+    "english_definition": "Answer",
+    "target_definition": "Dare una risposta a una domanda.",
+    "target_definition_translation": "To give a reply to a question.",
+    "example": "Devi rispondere al telefono.",
+    "example_translation": "You must answer the phone.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Domandare",
+    "english_definition": "Ask",
+    "target_definition": "Rivolgere una domanda a qualcuno.",
+    "target_definition_translation": "To direct a question to someone.",
+    "example": "Posso domandare una cosa?",
+    "example_translation": "Can I ask something?",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Chiedere",
+    "english_definition": "Request",
+    "target_definition": "Domandare per avere qualcosa.",
+    "target_definition_translation": "To ask in order to have something.",
+    "example": "Voglio chiedere un favore.",
+    "example_translation": "I want to request a favor.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Amare",
+    "english_definition": "Love",
+    "target_definition": "Provare un forte sentimento di affetto.",
+    "target_definition_translation": "To feel a strong feeling of affection.",
+    "example": "Lui continua ad amare la sua città.",
+    "example_translation": "He continues to love his city.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Lavorare",
+    "english_definition": "Work",
+    "target_definition": "Svolgere un'attività per produrre qualcosa o guadagnare.",
+    "target_definition_translation": "To perform an activity to produce something or earn.",
+    "example": "Devo lavorare fino a tardi.",
+    "example_translation": "I have to work until late.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Dimenticare",
+    "english_definition": "Forget",
+    "target_definition": "Perdere il ricordo di qualcosa.",
+    "target_definition_translation": "To lose the memory of something.",
+    "example": "Non dimenticare le chiavi.",
+    "example_translation": "Do not forget the keys.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Ricordare",
+    "english_definition": "Remember",
+    "target_definition": "Tenere o richiamare alla mente.",
+    "target_definition_translation": "To keep or call back to mind.",
+    "example": "Devi ricordare il suo nome.",
+    "example_translation": "You must remember his name.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Provare",
+    "english_definition": "Try",
+    "target_definition": "Fare un tentativo.",
+    "target_definition_translation": "To make an attempt.",
+    "example": "Voglio provare a cucinare.",
+    "example_translation": "I want to try cooking.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Scegliere",
+    "english_definition": "Choose",
+    "target_definition": "Prendere una cosa preferendola alle altre.",
+    "target_definition_translation": "To take one thing preferring it to others.",
+    "example": "Devi scegliere un colore.",
+    "example_translation": "You must choose a color.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Spingere",
+    "english_definition": "Push",
+    "target_definition": "Esercitare forza contro qualcosa per muoverlo in avanti.",
+    "target_definition_translation": "To exert force against something to move it forward.",
+    "example": "Aiutami a spingere la porta.",
+    "example_translation": "Help me push the door.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Tirare",
+    "english_definition": "Pull",
+    "target_definition": "Esercitare forza per avvicinare qualcosa a sé.",
+    "target_definition_translation": "To exert force to bring something towards oneself.",
+    "example": "Devi tirare la corda.",
+    "example_translation": "You must pull the rope.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Volare",
+    "english_definition": "Fly",
+    "target_definition": "Muoversi e sostenersi nell'aria.",
+    "target_definition_translation": "To move and support oneself in the air.",
+    "example": "Gli uccelli possono volare.",
+    "example_translation": "Birds can fly.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Nuotare",
+    "english_definition": "Swim",
+    "target_definition": "Muoversi nell'acqua.",
+    "target_definition_translation": "To move in the water.",
+    "example": "Vado a nuotare in piscina.",
+    "example_translation": "I am going to swim in the pool.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Arancione",
+    "english_definition": "Orange",
+    "target_definition": "Colore intermedio tra il rosso e il giallo.",
+    "target_definition_translation": "Intermediate color between red and yellow.",
+    "example": "Il sole al tramonto è arancione.",
+    "example_translation": "The setting sun is orange.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Rosa",
+    "english_definition": "Pink",
+    "target_definition": "Colore simile al rosso molto chiaro.",
+    "target_definition_translation": "Color similar to very light red.",
+    "example": "Indossa una gonna rosa.",
+    "example_translation": "She wears a pink skirt.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Viola",
+    "english_definition": "Purple",
+    "target_definition": "Colore composto da rosso e blu.",
+    "target_definition_translation": "Color composed of red and blue.",
+    "example": "Quel fiore è viola.",
+    "example_translation": "That flower is purple.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Marrone",
+    "english_definition": "Brown",
+    "target_definition": "Il colore tipico della terra o del legno.",
+    "target_definition_translation": "The typical color of earth or wood.",
+    "example": "Ha i capelli di colore marrone.",
+    "example_translation": "He has brown hair.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Grigio",
+    "english_definition": "Gray",
+    "target_definition": "Colore intermedio tra bianco e nero.",
+    "target_definition_translation": "Intermediate color between white and black.",
+    "example": "Il cielo è grigio oggi.",
+    "example_translation": "The sky is gray today.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Burro",
+    "english_definition": "Butter",
+    "target_definition": "Alimento grasso ricavato dalla crema del latte.",
+    "target_definition_translation": "Fatty food derived from milk cream.",
+    "example": "Spalma il burro sul pane.",
+    "example_translation": "Spread the butter on the bread.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Olio",
+    "english_definition": "Oil",
+    "target_definition": "Liquido grasso usato per condire o friggere.",
+    "target_definition_translation": "Fatty liquid used to season or fry.",
+    "example": "Aggiungi un po' di olio d'oliva.",
+    "example_translation": "Add a bit of olive oil.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Sale",
+    "english_definition": "Salt",
+    "target_definition": "Sostanza bianca usata per insaporire i cibi.",
+    "target_definition_translation": "White substance used to flavor foods.",
+    "example": "L'acqua della pasta non ha sale.",
+    "example_translation": "The pasta water has no salt.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Pepe",
+    "english_definition": "Pepper",
+    "target_definition": "Spezia dal sapore forte e piccante.",
+    "target_definition_translation": "Spice with a strong and spicy flavor.",
+    "example": "Aggiungi sale e pepe.",
+    "example_translation": "Add salt and pepper.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Zucchero",
+    "english_definition": "Sugar",
+    "target_definition": "Sostanza cristallina dal sapore dolce.",
+    "target_definition_translation": "Crystalline substance with a sweet flavor.",
+    "example": "Vuoi zucchero nel caffè?",
+    "example_translation": "Do you want sugar in your coffee?",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Farina",
+    "english_definition": "Flour",
+    "target_definition": "Polvere ottenuta dalla macinazione del grano.",
+    "target_definition_translation": "Powder obtained by grinding wheat.",
+    "example": "Mi serve la farina per la pizza.",
+    "example_translation": "I need flour for the pizza.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Torta",
+    "english_definition": "Cake",
+    "target_definition": "Dolce cotto al forno, spesso per i compleanni.",
+    "target_definition_translation": "Baked sweet, often for birthdays.",
+    "example": "Mangiamo una fetta di torta.",
+    "example_translation": "Let's eat a slice of cake.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Biscotto",
+    "english_definition": "Cookie",
+    "target_definition": "Piccolo dolce secco e croccante.",
+    "target_definition_translation": "Small dry and crunchy sweet.",
+    "example": "Prendo un biscotto con il tè.",
+    "example_translation": "I take a cookie with my tea.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Cioccolato",
+    "english_definition": "Chocolate",
+    "target_definition": "Prodotto dolce ricavato dai semi di cacao.",
+    "target_definition_translation": "Sweet product derived from cocoa beans.",
+    "example": "Amo il cioccolato fondente.",
+    "example_translation": "I love dark chocolate.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Gelato",
+    "english_definition": "Ice cream",
+    "target_definition": "Dolce freddo a base di latte, crema o acqua.",
+    "target_definition_translation": "Cold sweet based on milk, cream, or water.",
+    "example": "Compro un gelato al limone.",
+    "example_translation": "I am buying a lemon ice cream.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Vino",
+    "english_definition": "Wine",
+    "target_definition": "Bevanda alcolica ottenuta dall'uva.",
+    "target_definition_translation": "Alcoholic beverage obtained from grapes.",
+    "example": "Bevo un bicchiere di vino rosso.",
+    "example_translation": "I drink a glass of red wine.",
+    "repetitionLevel": 0
+  },
+  {
+    "language": "it",
+    "word": "Birra",
+    "english_definition": "Beer",
+    "target_definition": "Bevanda alcolica e frizzante fatta con il malto.",
+    "target_definition_translation": "Alcoholic and fizzy beverage made with malt.",
+    "example": "Una birra fredda, per favore.",
+    "example_translation": "A cold beer, please.",
+    "repetitionLevel": 0
+  },
+
 ]
